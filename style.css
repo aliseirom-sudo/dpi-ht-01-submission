@@ -1,2 +1,19 @@
 :root{--ink:#17221d;--muted:#68736d;--paper:#f7f4ed;--card:#fffdf8;--line:#dedbd1;--green:#1c5c48;--lime:#d7ee9a;--amber:#f5ddb0;--red:#f3c6bd;--blue:#c9e4e5}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 system-ui,sans-serif}header{padding:36px max(24px,calc((100vw - 1180px)/2));background:var(--green);color:#fff;display:flex;justify-content:space-between;gap:32px;align-items:end}h1{font:700 clamp(28px,4vw,52px)/1.02 Georgia,serif;margin:4px 0 10px}header small{letter-spacing:.13em;font-size:11px;font-weight:800;color:var(--lime)}header p{color:#c7d8cf;margin:0}nav{display:flex;gap:16px;flex-wrap:wrap}nav a{color:#fff;text-decoration:none;border-bottom:1px solid #9bc7ad;padding-bottom:3px}main{max-width:1180px;margin:0 auto;padding:30px 24px 80px}.grid,.three{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.three{grid-template-columns:repeat(3,1fr)}.two{display:grid;grid-template-columns:1fr 1fr;gap:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;box-shadow:0 2px 10px #2733280b}.metric{font-size:29px;font-weight:750}.label{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700}.section{margin-top:38px}.section h2{font:700 28px/1.1 Georgia,serif;margin:0 0 14px}.table-wrap{overflow:auto}.table{width:100%;border-collapse:collapse}.table th,.table td{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line);vertical-align:top}.table th{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}.num{text-align:right!important;white-space:nowrap}.pill{display:inline-block;padding:3px 8px;border-radius:99px;font-size:11px;font-weight:800}.ok{background:var(--lime)}.warn{background:var(--amber)}.bad{background:var(--red)}.info{background:var(--blue)}.small{font-size:13px;color:var(--muted)}.callout{border-left:5px solid var(--green);padding:14px 17px;background:#edf4eb;border-radius:0 10px 10px 0}.warnbox{border-color:#c48620;background:#fff4dc}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.filters button{border:1px solid var(--line);background:var(--card);border-radius:99px;padding:8px 13px;cursor:pointer}.filters button.active{background:var(--green);color:#fff}footer{border-top:1px solid var(--line);padding:24px max(24px,calc((100vw - 1180px)/2));color:var(--muted);font-size:13px}@media(max-width:800px){header{display:block}nav{margin-top:20px}.grid,.three,.two{grid-template-columns:1fr 1fr}}@media(max-width:480px){.grid,.three,.two{grid-template-columns:1fr}}
 .statement{overflow:auto}.statement .table{min-width:300px}.statement .table th{font-weight:800}.statement .table tr:last-child th{border-top:2px solid var(--green)}
+
+/* Divorce-party theme: burgundy, champagne and paper. */
+:root{--ink:#26181a;--muted:#806d70;--paper:#f8f0ec;--card:#fffaf7;--line:#e5d2cd;--green:#701f2b;--lime:#f2d7a1;--amber:#f4d2a1;--red:#e8b8b7;--blue:#ead5dc}
+body{background:radial-gradient(circle at 92% 4%,#f1d8d4 0,transparent 22rem),var(--paper)}
+header{background:linear-gradient(135deg,#4a101d 0%,#701f2b 58%,#8d3340 100%);position:relative;overflow:hidden}
+header:after{content:'💔';position:absolute;right:7%;top:18px;font-size:92px;opacity:.13;transform:rotate(-12deg);pointer-events:none}
+header h1{letter-spacing:-.035em;text-shadow:0 2px 0 #3a0c16}
+header small{color:#f2d7a1}
+nav a{border-color:#d8a8a9}
+nav a:hover{color:#f2d7a1}
+.card{box-shadow:0 8px 24px #5b1b2614}
+.section h2{color:#701f2b}
+.callout{border-left-color:#701f2b;background:#f8e8e4}
+.warnbox{border-color:#b77a42;background:#fff0dc}
+.pill.ok{background:#ead09d;color:#4a2a19}.pill.info{background:#ead5dc;color:#5d2330}.pill.warn{background:#f4d2a1;color:#633718}.pill.bad{background:#e8b8b7;color:#641d27}
+.filters button.active{background:#701f2b}
+footer{background:#4a101d;color:#ead5dc;border-top-color:#701f2b}
