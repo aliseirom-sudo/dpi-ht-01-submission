@@ -13,7 +13,8 @@
       "question": "Resolve the source and treatment of NorthStar receipt.",
       "answer": "Certified answer: Resolve the source and treatment of NorthStar receipt.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -24,7 +25,8 @@
       "question": "Resolve the source and treatment of Freedom receipt 1.",
       "answer": "Certified answer: Resolve the source and treatment of Freedom receipt 1.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -35,7 +37,8 @@
       "question": "Resolve the source and treatment of Phoenix receipt.",
       "answer": "Certified answer: Resolve the source and treatment of Phoenix receipt.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -46,7 +49,8 @@
       "question": "Resolve the source and treatment of Liberty receipt.",
       "answer": "Certified answer: Resolve the source and treatment of Liberty receipt.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -57,7 +61,8 @@
       "question": "Resolve the source and treatment of Opening receivable receipt.",
       "answer": "Certified answer: Resolve the source and treatment of Opening receivable receipt.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -68,7 +73,8 @@
       "question": "Resolve the source and treatment of Finally Single web receipts.",
       "answer": "Certified answer: Resolve the source and treatment of Finally Single web receipts.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -79,7 +85,8 @@
       "question": "Resolve the source and treatment of Never Call Back web receipts.",
       "answer": "Certified answer: Resolve the source and treatment of Never Call Back web receipts.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -90,7 +97,8 @@
       "question": "Resolve the source and treatment of New Beginnings deposit.",
       "answer": "Certified answer: Resolve the source and treatment of New Beginnings deposit.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -101,7 +109,8 @@
       "question": "Resolve the source and treatment of Fresh Freedom deposit.",
       "answer": "Certified answer: Resolve the source and treatment of Fresh Freedom deposit.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -112,7 +121,8 @@
       "question": "Resolve the source and treatment of Box supplier payment.",
       "answer": "Certified answer: Resolve the source and treatment of Box supplier payment.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -123,7 +133,8 @@
       "question": "Resolve the source and treatment of Glass supplier payment.",
       "answer": "Certified answer: Resolve the source and treatment of Glass supplier payment.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -134,7 +145,8 @@
       "question": "Resolve the source and treatment of Print supplier payment.",
       "answer": "Certified answer: Resolve the source and treatment of Print supplier payment.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -145,7 +157,8 @@
       "question": "Resolve the source and treatment of Event supplier payment.",
       "answer": "Certified answer: Resolve the source and treatment of Event supplier payment.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -156,7 +169,8 @@
       "question": "Resolve the source and treatment of January payroll.",
       "answer": "Certified answer: Resolve the source and treatment of January payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -167,7 +181,8 @@
       "question": "Resolve the source and treatment of February payroll.",
       "answer": "Certified answer: Resolve the source and treatment of February payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -178,7 +193,8 @@
       "question": "Resolve the source and treatment of March payroll.",
       "answer": "Certified answer: Resolve the source and treatment of March payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -189,7 +205,8 @@
       "question": "Resolve the source and treatment of April payroll.",
       "answer": "Certified answer: Resolve the source and treatment of April payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -200,7 +217,8 @@
       "question": "Resolve the source and treatment of May payroll.",
       "answer": "Certified answer: Resolve the source and treatment of May payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -211,7 +229,8 @@
       "question": "Resolve the source and treatment of June payroll.",
       "answer": "Certified answer: Resolve the source and treatment of June payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -222,7 +241,8 @@
       "question": "Resolve the source and treatment of July payroll.",
       "answer": "Certified answer: Resolve the source and treatment of July payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -233,7 +253,8 @@
       "question": "Resolve the source and treatment of August payroll.",
       "answer": "Certified answer: Resolve the source and treatment of August payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -244,7 +265,8 @@
       "question": "Resolve the source and treatment of Rent payments.",
       "answer": "Certified answer: Resolve the source and treatment of Rent payments.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -255,7 +277,8 @@
       "question": "Resolve the source and treatment of Meta and influencer payments.",
       "answer": "Certified answer: Resolve the source and treatment of Meta and influencer payments.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -266,7 +289,8 @@
       "question": "Resolve the source and treatment of Software payments.",
       "answer": "Certified answer: Resolve the source and treatment of Software payments.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -277,7 +301,8 @@
       "question": "Resolve the source and treatment of Utilities payments.",
       "answer": "Certified answer: Resolve the source and treatment of Utilities payments.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -288,7 +313,8 @@
       "question": "Resolve the source and treatment of Repair transfer.",
       "answer": "Certified answer: Resolve the source and treatment of Repair transfer.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -299,7 +325,8 @@
       "question": "Resolve the source and treatment of Packaging machine payment.",
       "answer": "Certified answer: Resolve the source and treatment of Packaging machine payment.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -310,7 +337,8 @@
       "question": "Resolve the source and treatment of Photo booth payment.",
       "answer": "Certified answer: Resolve the source and treatment of Photo booth payment.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -321,7 +349,8 @@
       "question": "Resolve the source and treatment of Loan receipt.",
       "answer": "Certified answer: Resolve the source and treatment of Loan receipt.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -332,7 +361,8 @@
       "question": "Resolve the source and treatment of Loan repayments.",
       "answer": "Certified answer: Resolve the source and treatment of Loan repayments.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -343,7 +373,8 @@
       "question": "Resolve the source and treatment of Interest payments.",
       "answer": "Certified answer: Resolve the source and treatment of Interest payments.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -354,7 +385,8 @@
       "question": "Resolve the source and treatment of Villa deposit.",
       "answer": "Certified answer: Resolve the source and treatment of Villa deposit.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -365,7 +397,8 @@
       "question": "Resolve the source and treatment of Owner card spending.",
       "answer": "Certified answer: Resolve the source and treatment of Owner card spending.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -374,11 +407,12 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Insurance movement.",
-      "answer": "Certified answer: Resolve the source and treatment of Insurance movement.",
+      "answer": "No reliable insurance amount or policy evidence is present; no insurance expense or prepaid balance is recognized.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D035",
@@ -387,7 +421,8 @@
       "question": "Resolve the source and treatment of Water-damaged stock.",
       "answer": "Certified answer: Resolve the source and treatment of Water-damaged stock.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -398,7 +433,8 @@
       "question": "Resolve the source and treatment of Customer insolvency.",
       "answer": "Certified answer: Resolve the source and treatment of Customer insolvency.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -409,7 +445,8 @@
       "question": "Resolve the source and treatment of Former employee claim.",
       "answer": "Certified answer: Resolve the source and treatment of Former employee claim.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -418,9 +455,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Purchase total.",
-      "answer": "Certified answer: Resolve the source and treatment of Purchase total.",
+      "answer": "Materials purchases total €459,000.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -429,9 +467,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Cash collections total.",
-      "answer": "Certified answer: Resolve the source and treatment of Cash collections total.",
+      "answer": "Customer receipts excluding the €50,000 loan total €899,000.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -440,9 +479,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Closing bank balance.",
-      "answer": "Certified answer: Resolve the source and treatment of Closing bank balance.",
+      "answer": "Closing bank balance is €60,000.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -453,7 +493,8 @@
       "question": "Classify September customer deposits.",
       "answer": "Certified answer: Classify September customer deposits.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify September customer deposits.",
@@ -475,7 +516,8 @@
       "question": "Classify New bank borrowing.",
       "answer": "Certified answer: Classify New bank borrowing.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify New bank borrowing.",
@@ -497,7 +539,8 @@
       "question": "Classify Packaging machine.",
       "answer": "Certified answer: Classify Packaging machine.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Packaging machine.",
@@ -519,7 +562,8 @@
       "question": "Classify Photo booth.",
       "answer": "Certified answer: Classify Photo booth.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Photo booth.",
@@ -541,7 +585,8 @@
       "question": "Classify Machine belt and calibration.",
       "answer": "Certified answer: Classify Machine belt and calibration.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Machine belt and calibration.",
@@ -563,7 +608,8 @@
       "question": "Classify Owner villa deposit.",
       "answer": "Certified answer: Classify Owner villa deposit.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Owner villa deposit.",
@@ -585,7 +631,8 @@
       "question": "Classify Owner card spending.",
       "answer": "Certified answer: Classify Owner card spending.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Owner card spending.",
@@ -607,7 +654,8 @@
       "question": "Classify Physical product materials consumed.",
       "answer": "Certified answer: Classify Physical product materials consumed.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Physical product materials consumed.",
@@ -629,7 +677,8 @@
       "question": "Classify Event staff payroll.",
       "answer": "Certified answer: Classify Event staff payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Event staff payroll.",
@@ -651,7 +700,8 @@
       "question": "Classify Sales team payroll.",
       "answer": "Certified answer: Classify Sales team payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -662,7 +712,8 @@
       "question": "Classify Office payroll.",
       "answer": "Certified answer: Classify Office payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -673,7 +724,8 @@
       "question": "Classify Rent.",
       "answer": "Certified answer: Classify Rent.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -684,7 +736,8 @@
       "question": "Classify Marketing.",
       "answer": "Certified answer: Classify Marketing.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -695,7 +748,8 @@
       "question": "Classify Software.",
       "answer": "Certified answer: Classify Software.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -706,7 +760,8 @@
       "question": "Classify Utilities.",
       "answer": "Certified answer: Classify Utilities.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -717,7 +772,8 @@
       "question": "Classify Depreciation.",
       "answer": "Certified answer: Classify Depreciation.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Depreciation.",
@@ -739,7 +795,8 @@
       "question": "Classify Bad receivable.",
       "answer": "Certified answer: Classify Bad receivable.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Bad receivable.",
@@ -761,7 +818,8 @@
       "question": "Classify Damaged stock.",
       "answer": "Certified answer: Classify Damaged stock.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Damaged stock.",
@@ -783,7 +841,8 @@
       "question": "Classify Probable legal claim.",
       "answer": "Certified answer: Classify Probable legal claim.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Probable legal claim.",
@@ -803,11 +862,12 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Insurance consumed.",
-      "answer": "Certified answer: Classify Insurance consumed.",
+      "answer": "No reliable insurance amount or policy evidence is present; no insurance expense or prepaid balance is recognized.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D061",
@@ -816,7 +876,8 @@
       "question": "Classify Unpaid interest.",
       "answer": "Certified answer: Classify Unpaid interest.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -827,7 +888,8 @@
       "question": "Classify Unpaid payroll.",
       "answer": "Certified answer: Classify Unpaid payroll.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -838,7 +900,8 @@
       "question": "Classify Unpaid suppliers.",
       "answer": "Certified answer: Classify Unpaid suppliers.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -849,7 +912,8 @@
       "question": "Classify Delivered NorthStar contract.",
       "answer": "Certified answer: Classify Delivered NorthStar contract.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Delivered NorthStar contract.",
@@ -871,7 +935,8 @@
       "question": "Classify Delivered Freedom contract.",
       "answer": "Certified answer: Classify Delivered Freedom contract.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Delivered Freedom contract.",
@@ -893,7 +958,8 @@
       "question": "Classify Completed Phoenix event.",
       "answer": "Certified answer: Classify Completed Phoenix event.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Completed Phoenix event.",
@@ -915,7 +981,8 @@
       "question": "Classify Delivered Liberty order.",
       "answer": "Certified answer: Classify Delivered Liberty order.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Delivered Liberty order.",
@@ -937,7 +1004,8 @@
       "question": "Classify Undelivered September events.",
       "answer": "Certified answer: Classify Undelivered September events.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Classify Undelivered September events.",
@@ -959,7 +1027,8 @@
       "question": "Classify Loan principal payment.",
       "answer": "Certified answer: Classify Loan principal payment.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -970,7 +1039,8 @@
       "question": "Classify Equipment purchase.",
       "answer": "Certified answer: Classify Equipment purchase.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -981,7 +1051,8 @@
       "question": "Estimate Closing bad-debt allowance/write-off and document the basis.",
       "answer": "Certified answer: Estimate Closing bad-debt allowance/write-off and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Estimate Closing bad-debt allowance/write-off and document the basis.",
@@ -1003,7 +1074,8 @@
       "question": "Estimate Damaged inventory write-off and document the basis.",
       "answer": "Certified answer: Estimate Damaged inventory write-off and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Estimate Damaged inventory write-off and document the basis.",
@@ -1025,7 +1097,8 @@
       "question": "Estimate Legal provision and document the basis.",
       "answer": "Certified answer: Estimate Legal provision and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Estimate Legal provision and document the basis.",
@@ -1047,7 +1120,8 @@
       "question": "Estimate Period depreciation and document the basis.",
       "answer": "Certified answer: Estimate Period depreciation and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Period depreciation and document the basis.",
@@ -1069,7 +1143,8 @@
       "question": "Estimate Closing inventory and document the basis.",
       "answer": "Certified answer: Estimate Closing inventory and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Closing inventory and document the basis.",
@@ -1091,7 +1166,8 @@
       "question": "Estimate Closing receivables and document the basis.",
       "answer": "Certified answer: Estimate Closing receivables and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1102,7 +1178,8 @@
       "question": "Estimate Repair versus improvement amount and document the basis.",
       "answer": "Certified answer: Estimate Repair versus improvement amount and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1111,11 +1188,12 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Insurance expense and document the basis.",
-      "answer": "Certified answer: Estimate Insurance expense and document the basis.",
+      "answer": "No reliable insurance amount or policy evidence is present; no insurance expense or prepaid balance is recognized.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D079",
@@ -1124,7 +1202,8 @@
       "question": "Estimate Interest payable and document the basis.",
       "answer": "Certified answer: Estimate Interest payable and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1135,7 +1214,8 @@
       "question": "Estimate Accrued payroll and document the basis.",
       "answer": "Certified answer: Estimate Accrued payroll and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1146,7 +1226,8 @@
       "question": "Estimate Customer deposit liability and document the basis.",
       "answer": "Certified answer: Estimate Customer deposit liability and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1157,7 +1238,8 @@
       "question": "Estimate PPE closing cost and document the basis.",
       "answer": "Certified answer: Estimate PPE closing cost and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1168,7 +1250,8 @@
       "question": "Estimate Accumulated depreciation and document the basis.",
       "answer": "Certified answer: Estimate Accumulated depreciation and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1179,7 +1262,8 @@
       "question": "Estimate Supplier payable and document the basis.",
       "answer": "Certified answer: Estimate Supplier payable and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1190,7 +1274,8 @@
       "question": "Estimate Closing loan and document the basis.",
       "answer": "Certified answer: Estimate Closing loan and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1201,7 +1286,8 @@
       "question": "Estimate Physical COGS and document the basis.",
       "answer": "Certified answer: Estimate Physical COGS and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1212,7 +1298,8 @@
       "question": "Estimate Service direct payroll and document the basis.",
       "answer": "Certified answer: Estimate Service direct payroll and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1223,7 +1310,8 @@
       "question": "Estimate Owner distributions and document the basis.",
       "answer": "Certified answer: Estimate Owner distributions and document the basis.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1232,9 +1320,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Net profit and document the basis.",
-      "answer": "Certified answer: Estimate Net profit and document the basis.",
+      "answer": "Quantified reconstructed profit is €65,000.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1243,9 +1332,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing cash and document the basis.",
-      "answer": "Certified answer: Estimate Closing cash and document the basis.",
+      "answer": "Closing cash is €60,000.",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1256,7 +1346,8 @@
       "question": "Approve corrected accounts before valuation",
       "answer": "Certified answer: Approve corrected accounts before valuation",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Approve corrected accounts before valuation",
@@ -1278,7 +1369,8 @@
       "question": "Freeze owner-card access",
       "answer": "Certified answer: Freeze owner-card access",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1289,7 +1381,8 @@
       "question": "Move September deposits to contract liabilities",
       "answer": "Certified answer: Move September deposits to contract liabilities",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1300,7 +1393,8 @@
       "question": "Begin weekly 13-week cash forecast",
       "answer": "Certified answer: Begin weekly 13-week cash forecast",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1311,7 +1405,8 @@
       "question": "Stop credit sales to insolvent/high-risk customers",
       "answer": "Certified answer: Stop credit sales to insolvent/high-risk customers",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1322,7 +1417,8 @@
       "question": "Dispose of damaged stock",
       "answer": "Certified answer: Dispose of damaged stock",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1333,7 +1429,8 @@
       "question": "Investigate management override and duplicate sources",
       "answer": "Certified answer: Investigate management override and duplicate sources",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1344,7 +1441,8 @@
       "question": "Renegotiate supplier terms",
       "answer": "Certified answer: Renegotiate supplier terms",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1355,7 +1453,8 @@
       "question": "Continue core Finally Single and event operations",
       "answer": "Certified answer: Continue core Finally Single and event operations",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high"
     },
@@ -1366,7 +1465,8 @@
       "question": "Use claimed management profit for earn-out",
       "answer": "Certified answer: Use claimed management profit for earn-out",
       "evidence": [
-        "case evidence and supporting schedules"
+        "02 Bank Export August.csv",
+        "03 CRM Export Cleaned FINAL.xlsx"
       ],
       "confidence": "high",
       "aiProposal": "Certified answer: Use claimed management profit for earn-out",
@@ -1384,8 +1484,8 @@
   ],
   "schemaVersion": "1.0",
   "student": {
-    "id": "DPI-HT-01",
-    "name": "Student"
+    "id": "ar25192",
+    "name": "Alise Romanovska"
   },
   "evidence": [
     {
@@ -1446,6 +1546,31 @@
       "interestPayable": 2000,
       "legalProvision": 25000,
       "distributions": 110000
+    },
+    "inventoryCOGS": {
+      "openingInventory": 80000,
+      "purchases": 459000,
+      "consumed": 405000,
+      "damagedWriteOff": 22000,
+      "flowDerivedNetClosing": 112000,
+      "physicalCount": 143000,
+      "selectedNetClosing": 121000,
+      "unresolvedDifference": 9000
+    },
+    "operatingExpenses": {
+      "rent": 48000,
+      "marketing": 55000,
+      "software": 16000,
+      "utilities": 12000,
+      "repair": 10000,
+      "insurance": "unresolved: no reliable policy or prepaid evidence"
+    },
+    "equityDistributions": {
+      "villa": 70000,
+      "ownerCard": 40000,
+      "total": 110000,
+      "openingEquity": "not established",
+      "rollForward": "unresolved: opening equity evidence missing"
     }
   },
   "statements": {
@@ -1468,14 +1593,20 @@
   },
   "reconciliations": [
     {
-      "name": "Closing cash",
+      "name": "Balance sheet arithmetic",
+      "status": "pass",
+      "difference": 0
+    },
+    {
+      "name": "Closing cash to bank and cash flow",
       "status": "pass",
       "difference": 0
     },
     {
       "name": "Inventory count versus flow",
       "status": "unresolved",
-      "difference": 9000
+      "difference": 9000,
+      "calculation": "80000 + 459000 - 405000 - 22000 = 112000; physical count 143000 - 22000 = 121000"
     },
     {
       "name": "Supplier/AP",
@@ -1483,19 +1614,26 @@
       "difference": 45000
     },
     {
-      "name": "Opening equity",
+      "name": "Opening equity roll-forward",
       "status": "unresolved",
-      "difference": null
+      "difference": null,
+      "reason": "Opening equity and opening AP evidence are not established; no plug created"
+    },
+    {
+      "name": "Prepaid insurance",
+      "status": "unresolved",
+      "difference": null,
+      "reason": "No reliable insurance policy, prepaid balance or consumption evidence identified"
     }
   ],
   "uncertainties": [
     "€9,000 inventory difference",
     "€45,000 supplier/AP difference",
     "Opening/closing equity support",
-    "Insurance evidence",
+    "No reliable insurance/prepaid evidence",
     "Monthly payroll split"
   ],
   "boardRecommendation": {
-    "text": "Do not rely on management profit of €312,000. Use corrected profit of €65,000 and bank-supported closing cash of €60,000; resolve open reconciliations without unsupported plugs."
+    "text": "Do not rely on management profit of €312,000. Use corrected profit of €65,000 and bank-supported closing cash of €60,000; investigate the €9,000 inventory, €45,000 supplier/AP, opening equity and insurance evidence without unsupported plugs."
   }
 }
