@@ -11,396 +11,396 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of NorthStar receipt.",
-      "answer": "Certified answer: Resolve the source and treatment of NorthStar receipt.",
+      "answer": "Operational conclusion: NorthStar receipt.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D002",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Freedom receipt 1.",
-      "answer": "Certified answer: Resolve the source and treatment of Freedom receipt 1.",
+      "answer": "Operational conclusion: Freedom receipt 1.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D003",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Phoenix receipt.",
-      "answer": "Certified answer: Resolve the source and treatment of Phoenix receipt.",
+      "answer": "Operational conclusion: Phoenix receipt.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D004",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Liberty receipt.",
-      "answer": "Certified answer: Resolve the source and treatment of Liberty receipt.",
+      "answer": "Operational conclusion: Liberty receipt.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D005",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Opening receivable receipt.",
-      "answer": "Certified answer: Resolve the source and treatment of Opening receivable receipt.",
+      "answer": "Operational conclusion: Opening receivable receipt.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D006",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Finally Single web receipts.",
-      "answer": "Certified answer: Resolve the source and treatment of Finally Single web receipts.",
+      "answer": "Operational conclusion: Finally Single web receipts.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D007",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Never Call Back web receipts.",
-      "answer": "Certified answer: Resolve the source and treatment of Never Call Back web receipts.",
+      "answer": "Operational conclusion: Never Call Back web receipts.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D008",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of New Beginnings deposit.",
-      "answer": "Certified answer: Resolve the source and treatment of New Beginnings deposit.",
+      "answer": "Operational conclusion: New Beginnings deposit.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D009",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Fresh Freedom deposit.",
-      "answer": "Certified answer: Resolve the source and treatment of Fresh Freedom deposit.",
+      "answer": "Operational conclusion: Fresh Freedom deposit.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D010",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Box supplier payment.",
-      "answer": "Certified answer: Resolve the source and treatment of Box supplier payment.",
+      "answer": "Operational conclusion: Box supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D011",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Glass supplier payment.",
-      "answer": "Certified answer: Resolve the source and treatment of Glass supplier payment.",
+      "answer": "Operational conclusion: Glass supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D012",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Print supplier payment.",
-      "answer": "Certified answer: Resolve the source and treatment of Print supplier payment.",
+      "answer": "Operational conclusion: Print supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D013",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Event supplier payment.",
-      "answer": "Certified answer: Resolve the source and treatment of Event supplier payment.",
+      "answer": "Operational conclusion: Event supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D014",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of January payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of January payroll.",
+      "answer": "Operational conclusion: January payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D015",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of February payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of February payroll.",
+      "answer": "Operational conclusion: February payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D016",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of March payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of March payroll.",
+      "answer": "Operational conclusion: March payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D017",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of April payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of April payroll.",
+      "answer": "Operational conclusion: April payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D018",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of May payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of May payroll.",
+      "answer": "Operational conclusion: May payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D019",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of June payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of June payroll.",
+      "answer": "Operational conclusion: June payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D020",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of July payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of July payroll.",
+      "answer": "Operational conclusion: July payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D021",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of August payroll.",
-      "answer": "Certified answer: Resolve the source and treatment of August payroll.",
+      "answer": "Operational conclusion: August payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D022",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Rent payments.",
-      "answer": "Certified answer: Resolve the source and treatment of Rent payments.",
+      "answer": "Operational conclusion: Rent payments.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D023",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Meta and influencer payments.",
-      "answer": "Certified answer: Resolve the source and treatment of Meta and influencer payments.",
+      "answer": "Operational conclusion: Meta and influencer payments.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D024",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Software payments.",
-      "answer": "Certified answer: Resolve the source and treatment of Software payments.",
+      "answer": "Operational conclusion: Software payments.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D025",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Utilities payments.",
-      "answer": "Certified answer: Resolve the source and treatment of Utilities payments.",
+      "answer": "Operational conclusion: Utilities payments.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D026",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Repair transfer.",
-      "answer": "Certified answer: Resolve the source and treatment of Repair transfer.",
+      "answer": "Operational conclusion: Repair transfer.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D027",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Packaging machine payment.",
-      "answer": "Certified answer: Resolve the source and treatment of Packaging machine payment.",
+      "answer": "Operational conclusion: Packaging machine payment.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D028",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Photo booth payment.",
-      "answer": "Certified answer: Resolve the source and treatment of Photo booth payment.",
+      "answer": "Operational conclusion: Photo booth payment.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D029",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan receipt.",
-      "answer": "Certified answer: Resolve the source and treatment of Loan receipt.",
+      "answer": "Operational conclusion: Loan receipt.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D030",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan repayments.",
-      "answer": "Certified answer: Resolve the source and treatment of Loan repayments.",
+      "answer": "Operational conclusion: Loan repayments.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D031",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Interest payments.",
-      "answer": "Certified answer: Resolve the source and treatment of Interest payments.",
+      "answer": "Operational conclusion: Interest payments.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D032",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Villa deposit.",
-      "answer": "Certified answer: Resolve the source and treatment of Villa deposit.",
+      "answer": "Operational conclusion: Villa deposit.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D033",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Owner card spending.",
-      "answer": "Certified answer: Resolve the source and treatment of Owner card spending.",
+      "answer": "Operational conclusion: Owner card spending.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D034",
@@ -419,36 +419,36 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Water-damaged stock.",
-      "answer": "Certified answer: Resolve the source and treatment of Water-damaged stock.",
+      "answer": "Operational conclusion: Water-damaged stock.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D036",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Customer insolvency.",
-      "answer": "Certified answer: Resolve the source and treatment of Customer insolvency.",
+      "answer": "Operational conclusion: Customer insolvency.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D037",
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Former employee claim.",
-      "answer": "Certified answer: Resolve the source and treatment of Former employee claim.",
+      "answer": "Operational conclusion: Former employee claim.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D038",
@@ -491,12 +491,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify September customer deposits.",
-      "answer": "Certified answer: Classify September customer deposits.",
+      "answer": "Operational conclusion: September customer deposits.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify September customer deposits.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Revenue is recognized when the service is provided; cash receipt alone does not mean the September events were earned.",
@@ -514,12 +514,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify New bank borrowing.",
-      "answer": "Certified answer: Classify New bank borrowing.",
+      "answer": "Operational conclusion: New bank borrowing.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify New bank borrowing.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The company has an obligation to repay the advance, so it is a liability rather than revenue.",
@@ -537,12 +537,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Packaging machine.",
-      "answer": "Certified answer: Classify Packaging machine.",
+      "answer": "Operational conclusion: Packaging machine.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Packaging machine.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The packaging machine provides benefits over multiple periods and should be capitalized and depreciated.",
@@ -560,12 +560,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Photo booth.",
-      "answer": "Certified answer: Classify Photo booth.",
+      "answer": "Operational conclusion: Photo booth.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Photo booth.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The photo booth provides benefits across multiple periods, so it should be capitalized rather than immediately expensed.",
@@ -583,12 +583,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Machine belt and calibration.",
-      "answer": "Certified answer: Classify Machine belt and calibration.",
+      "answer": "Operational conclusion: Machine belt and calibration.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Machine belt and calibration.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The work restored normal operation and did not extend useful life or increase capacity, so it is repair expense.",
@@ -606,12 +606,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner villa deposit.",
-      "answer": "Certified answer: Classify Owner villa deposit.",
+      "answer": "Operational conclusion: Owner villa deposit.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Owner villa deposit.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The villa is personally owned and no documented customer or business use exists; the payment is an owner distribution.",
@@ -629,12 +629,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner card spending.",
-      "answer": "Certified answer: Classify Owner card spending.",
+      "answer": "Operational conclusion: Owner card spending.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Owner card spending.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The evidence identifies personal owner-card spending and does not support a legitimate company expense classification.",
@@ -652,12 +652,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Certified answer: Classify Physical product materials consumed.",
+      "answer": "Operational conclusion: Physical product materials consumed.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Physical product materials consumed.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Materials were consumed in producing goods delivered to customers, so the cost belongs in COGS rather than closing inventory.",
@@ -675,12 +675,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Event staff payroll.",
-      "answer": "Certified answer: Classify Event staff payroll.",
+      "answer": "Operational conclusion: Event staff payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Event staff payroll.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The staff directly delivered paid customer events, making the payroll a direct service cost.",
@@ -698,79 +698,79 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Sales team payroll.",
-      "answer": "Certified answer: Classify Sales team payroll.",
+      "answer": "Operational conclusion: Sales team payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D051",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Office payroll.",
-      "answer": "Certified answer: Classify Office payroll.",
+      "answer": "Operational conclusion: Office payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D052",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Rent.",
-      "answer": "Certified answer: Classify Rent.",
+      "answer": "Operational conclusion: Rent.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D053",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Marketing.",
-      "answer": "Certified answer: Classify Marketing.",
+      "answer": "Operational conclusion: Marketing.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D054",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Software.",
-      "answer": "Certified answer: Classify Software.",
+      "answer": "Operational conclusion: Software.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D055",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Utilities.",
-      "answer": "Certified answer: Classify Utilities.",
+      "answer": "Operational conclusion: Utilities.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D056",
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Depreciation.",
-      "answer": "Certified answer: Classify Depreciation.",
+      "answer": "Operational conclusion: Depreciation.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
@@ -793,12 +793,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Bad receivable.",
-      "answer": "Certified answer: Classify Bad receivable.",
+      "answer": "Operational conclusion: Bad receivable.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Bad receivable.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The receivable is not expected to be recovered because R-17 entered liquidation; it should be impaired.",
@@ -816,12 +816,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Damaged stock.",
-      "answer": "Certified answer: Classify Damaged stock.",
+      "answer": "Operational conclusion: Damaged stock.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Damaged stock.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The stock physically exists but is damaged and unsaleable, so its carrying value must be written down to zero.",
@@ -839,12 +839,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Probable legal claim.",
-      "answer": "Certified answer: Classify Probable legal claim.",
+      "answer": "Operational conclusion: Probable legal claim.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Probable legal claim.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "A probable reporting-date obligation exists and €25,000 is counsel’s best estimate within the stated range.",
@@ -874,48 +874,48 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid interest.",
-      "answer": "Certified answer: Classify Unpaid interest.",
+      "answer": "Operational conclusion: Unpaid interest.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D062",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid payroll.",
-      "answer": "Certified answer: Classify Unpaid payroll.",
+      "answer": "Operational conclusion: Unpaid payroll.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D063",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid suppliers.",
-      "answer": "Certified answer: Classify Unpaid suppliers.",
+      "answer": "Operational conclusion: Unpaid suppliers.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D064",
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered NorthStar contract.",
-      "answer": "Certified answer: Classify Delivered NorthStar contract.",
+      "answer": "Operational conclusion: Delivered NorthStar contract.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Delivered NorthStar contract.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The NorthStar contractual obligations were completed and accepted before the reporting date.",
@@ -933,12 +933,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Freedom contract.",
-      "answer": "Certified answer: Classify Delivered Freedom contract.",
+      "answer": "Operational conclusion: Delivered Freedom contract.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Delivered Freedom contract.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Freedom performance was completed, so the full contract amount was earned; unpaid consideration remains AR.",
@@ -956,12 +956,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Completed Phoenix event.",
-      "answer": "Certified answer: Classify Completed Phoenix event.",
+      "answer": "Operational conclusion: Completed Phoenix event.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Completed Phoenix event.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The Phoenix event was completed and accepted before reporting date, so the full contract amount is revenue.",
@@ -979,12 +979,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Liberty order.",
-      "answer": "Certified answer: Classify Delivered Liberty order.",
+      "answer": "Operational conclusion: Delivered Liberty order.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Delivered Liberty order.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The Liberty order was delivered and accepted in full before reporting date, so the full amount is earned.",
@@ -1002,12 +1002,12 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Undelivered September events.",
-      "answer": "Certified answer: Classify Undelivered September events.",
+      "answer": "Operational conclusion: Undelivered September events.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Classify Undelivered September events.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The September events were not delivered by 31 August; the cash is a contract liability, not August revenue.",
@@ -1025,36 +1025,36 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Loan principal payment.",
-      "answer": "Certified answer: Classify Loan principal payment.",
+      "answer": "Operational conclusion: Loan principal payment.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D070",
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Equipment purchase.",
-      "answer": "Certified answer: Classify Equipment purchase.",
+      "answer": "Operational conclusion: Equipment purchase.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D071",
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing bad-debt allowance/write-off and document the basis.",
-      "answer": "Certified answer: Estimate Closing bad-debt allowance/write-off and document the basis.",
+      "answer": "Operational conclusion: Closing bad-debt allowance/write-off and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Closing bad-debt allowance/write-off and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The liquidation evidence confirms the R-17 balance is not recoverable; this is the same €18,000 adjustment as D057.",
@@ -1072,12 +1072,12 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Damaged inventory write-off and document the basis.",
-      "answer": "Certified answer: Estimate Damaged inventory write-off and document the basis.",
+      "answer": "Operational conclusion: Damaged inventory write-off and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Damaged inventory write-off and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The damaged stock cannot be sold and should not remain in valuable closing inventory; this is the same adjustment as D058.",
@@ -1095,12 +1095,12 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Legal provision and document the basis.",
-      "answer": "Certified answer: Estimate Legal provision and document the basis.",
+      "answer": "Operational conclusion: Legal provision and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Legal provision and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The probable legal obligation belongs in closing liabilities; this is the same €25,000 adjustment as D059.",
@@ -1118,7 +1118,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Period depreciation and document the basis.",
-      "answer": "Certified answer: Estimate Period depreciation and document the basis.",
+      "answer": "Operational conclusion: Period depreciation and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
@@ -1141,7 +1141,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing inventory and document the basis.",
-      "answer": "Certified answer: Estimate Closing inventory and document the basis.",
+      "answer": "Operational conclusion: Closing inventory and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
@@ -1164,24 +1164,24 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing receivables and document the basis.",
-      "answer": "Certified answer: Estimate Closing receivables and document the basis.",
+      "answer": "Operational conclusion: Closing receivables and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D077",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Repair versus improvement amount and document the basis.",
-      "answer": "Certified answer: Estimate Repair versus improvement amount and document the basis.",
+      "answer": "Operational conclusion: Repair versus improvement amount and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D078",
@@ -1200,120 +1200,120 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Interest payable and document the basis.",
-      "answer": "Certified answer: Estimate Interest payable and document the basis.",
+      "answer": "Operational conclusion: Interest payable and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D080",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accrued payroll and document the basis.",
-      "answer": "Certified answer: Estimate Accrued payroll and document the basis.",
+      "answer": "Operational conclusion: Accrued payroll and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D081",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Customer deposit liability and document the basis.",
-      "answer": "Certified answer: Estimate Customer deposit liability and document the basis.",
+      "answer": "Operational conclusion: Customer deposit liability and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D082",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate PPE closing cost and document the basis.",
-      "answer": "Certified answer: Estimate PPE closing cost and document the basis.",
+      "answer": "Operational conclusion: PPE closing cost and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D083",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accumulated depreciation and document the basis.",
-      "answer": "Certified answer: Estimate Accumulated depreciation and document the basis.",
+      "answer": "Operational conclusion: Accumulated depreciation and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D084",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Supplier payable and document the basis.",
-      "answer": "Certified answer: Estimate Supplier payable and document the basis.",
+      "answer": "Operational conclusion: Supplier payable and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D085",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing loan and document the basis.",
-      "answer": "Certified answer: Estimate Closing loan and document the basis.",
+      "answer": "Operational conclusion: Closing loan and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D086",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Physical COGS and document the basis.",
-      "answer": "Certified answer: Estimate Physical COGS and document the basis.",
+      "answer": "Operational conclusion: Physical COGS and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D087",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Service direct payroll and document the basis.",
-      "answer": "Certified answer: Estimate Service direct payroll and document the basis.",
+      "answer": "Operational conclusion: Service direct payroll and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D088",
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Owner distributions and document the basis.",
-      "answer": "Certified answer: Estimate Owner distributions and document the basis.",
+      "answer": "Operational conclusion: Owner distributions and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D089",
@@ -1344,12 +1344,12 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Approve corrected accounts before valuation",
-      "answer": "Certified answer: Approve corrected accounts before valuation",
+      "answer": "Operational conclusion: corrected accounts before valuation",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Approve corrected accounts before valuation",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Valuation should use corrected, evidence-supported accounts, with remaining reconciliation issues resolved or transparently documented.",
@@ -1367,108 +1367,108 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Freeze owner-card access",
-      "answer": "Certified answer: Freeze owner-card access",
+      "answer": "Operational conclusion: owner-card access",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D093",
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Move September deposits to contract liabilities",
-      "answer": "Certified answer: Move September deposits to contract liabilities",
+      "answer": "Operational conclusion: September deposits to contract liabilities",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D094",
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Begin weekly 13-week cash forecast",
-      "answer": "Certified answer: Begin weekly 13-week cash forecast",
+      "answer": "Operational conclusion: weekly 13-week cash forecast",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D095",
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Stop credit sales to insolvent/high-risk customers",
-      "answer": "Certified answer: Stop credit sales to insolvent/high-risk customers",
+      "answer": "Operational conclusion: credit sales to insolvent/high-risk customers",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D096",
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Dispose of damaged stock",
-      "answer": "Certified answer: Dispose of damaged stock",
+      "answer": "Operational conclusion: damaged stock",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D097",
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Investigate management override and duplicate sources",
-      "answer": "Certified answer: Investigate management override and duplicate sources",
+      "answer": "Operational conclusion: management override and duplicate sources",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D098",
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Renegotiate supplier terms",
-      "answer": "Certified answer: Renegotiate supplier terms",
+      "answer": "Operational conclusion: supplier terms",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D099",
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Continue core Finally Single and event operations",
-      "answer": "Certified answer: Continue core Finally Single and event operations",
+      "answer": "Operational conclusion: core Finally Single and event operations",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "id": "D100",
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Use claimed management profit for earn-out",
-      "answer": "Certified answer: Use claimed management profit for earn-out",
+      "answer": "Operational conclusion: claimed management profit for earn-out",
       "evidence": [
         "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "aiProposal": "Certified answer: Use claimed management profit for earn-out",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "An earn-out should use supported financial results and the actual agreement, not management’s uncorrected €312,000 profit claim.",
