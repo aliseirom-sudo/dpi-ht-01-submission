@@ -18,3 +18,4 @@ nav a:hover{color:#f2d7a1}
 .filters button.active{background:#701f2b}
 footer{background:#4a101d;color:#ead5dc;border-top-color:#701f2b}
 .trail-grid{grid-template-columns:repeat(2,1fr)}.trail-card h3{color:#701f2b;font-size:16px}.trail-card p{font-size:13px;margin:8px 0}.table-wrap{overflow:auto}@media(max-width:800px){.trail-grid{grid-template-columns:1fr}}
+.student-meta{font-size:12px;color:#f2d7a1;letter-spacing:.04em}
