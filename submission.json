@@ -11,10 +11,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of NorthStar receipt.",
-      "answer": "Operational conclusion: NorthStar receipt.",
+      "answer": "Evidence-based conclusion: NorthStar receipt.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -23,10 +24,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Freedom receipt 1.",
-      "answer": "Operational conclusion: Freedom receipt 1.",
+      "answer": "Evidence-based conclusion: Freedom receipt 1.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -35,10 +37,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Phoenix receipt.",
-      "answer": "Operational conclusion: Phoenix receipt.",
+      "answer": "Evidence-based conclusion: Phoenix receipt.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -47,10 +50,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Liberty receipt.",
-      "answer": "Operational conclusion: Liberty receipt.",
+      "answer": "Evidence-based conclusion: Liberty receipt.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -59,10 +63,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Opening receivable receipt.",
-      "answer": "Operational conclusion: Opening receivable receipt.",
+      "answer": "Evidence-based conclusion: Opening receivable receipt.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -71,10 +76,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Finally Single web receipts.",
-      "answer": "Operational conclusion: Finally Single web receipts.",
+      "answer": "Evidence-based conclusion: Finally Single web receipts.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -83,10 +89,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Never Call Back web receipts.",
-      "answer": "Operational conclusion: Never Call Back web receipts.",
+      "answer": "Evidence-based conclusion: Never Call Back web receipts.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -95,10 +102,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of New Beginnings deposit.",
-      "answer": "Operational conclusion: New Beginnings deposit.",
+      "answer": "Evidence-based conclusion: New Beginnings deposit.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -107,10 +115,11 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Fresh Freedom deposit.",
-      "answer": "Operational conclusion: Fresh Freedom deposit.",
+      "answer": "Evidence-based conclusion: Fresh Freedom deposit.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -119,10 +128,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Box supplier payment.",
-      "answer": "Operational conclusion: Box supplier payment.",
+      "answer": "Evidence-based conclusion: Box supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "medium"
     },
@@ -131,10 +140,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Glass supplier payment.",
-      "answer": "Operational conclusion: Glass supplier payment.",
+      "answer": "Evidence-based conclusion: Glass supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "medium"
     },
@@ -143,10 +152,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Print supplier payment.",
-      "answer": "Operational conclusion: Print supplier payment.",
+      "answer": "Evidence-based conclusion: Print supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "medium"
     },
@@ -155,10 +164,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Event supplier payment.",
-      "answer": "Operational conclusion: Event supplier payment.",
+      "answer": "Evidence-based conclusion: Event supplier payment.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "medium"
     },
@@ -167,10 +176,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of January payroll.",
-      "answer": "Operational conclusion: January payroll.",
+      "answer": "Evidence-based conclusion: January payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -179,10 +187,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of February payroll.",
-      "answer": "Operational conclusion: February payroll.",
+      "answer": "Evidence-based conclusion: February payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -191,10 +198,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of March payroll.",
-      "answer": "Operational conclusion: March payroll.",
+      "answer": "Evidence-based conclusion: March payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -203,10 +209,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of April payroll.",
-      "answer": "Operational conclusion: April payroll.",
+      "answer": "Evidence-based conclusion: April payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -215,10 +220,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of May payroll.",
-      "answer": "Operational conclusion: May payroll.",
+      "answer": "Evidence-based conclusion: May payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -227,10 +231,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of June payroll.",
-      "answer": "Operational conclusion: June payroll.",
+      "answer": "Evidence-based conclusion: June payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -239,10 +242,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of July payroll.",
-      "answer": "Operational conclusion: July payroll.",
+      "answer": "Evidence-based conclusion: July payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -251,10 +253,9 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of August payroll.",
-      "answer": "Operational conclusion: August payroll.",
+      "answer": "Evidence-based conclusion: August payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -263,10 +264,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Rent payments.",
-      "answer": "Operational conclusion: Rent payments.",
+      "answer": "Evidence-based conclusion: Rent payments.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -275,10 +276,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Meta and influencer payments.",
-      "answer": "Operational conclusion: Meta and influencer payments.",
+      "answer": "Evidence-based conclusion: Meta and influencer payments.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -287,10 +288,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Software payments.",
-      "answer": "Operational conclusion: Software payments.",
+      "answer": "Evidence-based conclusion: Software payments.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -299,10 +300,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Utilities payments.",
-      "answer": "Operational conclusion: Utilities payments.",
+      "answer": "Evidence-based conclusion: Utilities payments.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -311,10 +312,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Repair transfer.",
-      "answer": "Operational conclusion: Repair transfer.",
+      "answer": "Evidence-based conclusion: Repair transfer.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -323,10 +324,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Packaging machine payment.",
-      "answer": "Operational conclusion: Packaging machine payment.",
+      "answer": "Evidence-based conclusion: Packaging machine payment.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -335,10 +336,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Photo booth payment.",
-      "answer": "Operational conclusion: Photo booth payment.",
+      "answer": "Evidence-based conclusion: Photo booth payment.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -347,10 +348,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan receipt.",
-      "answer": "Operational conclusion: Loan receipt.",
+      "answer": "Evidence-based conclusion: Loan receipt.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -359,10 +360,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan repayments.",
-      "answer": "Operational conclusion: Loan repayments.",
+      "answer": "Evidence-based conclusion: Loan repayments.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -371,10 +372,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Interest payments.",
-      "answer": "Operational conclusion: Interest payments.",
+      "answer": "Evidence-based conclusion: Interest payments.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -383,10 +384,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Villa deposit.",
-      "answer": "Operational conclusion: Villa deposit.",
+      "answer": "Evidence-based conclusion: Villa deposit.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -395,10 +396,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Owner card spending.",
-      "answer": "Operational conclusion: Owner card spending.",
+      "answer": "Evidence-based conclusion: Owner card spending.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -409,8 +410,7 @@
       "question": "Resolve the source and treatment of Insurance movement.",
       "answer": "No reliable insurance amount or policy evidence is present; no insurance expense or prepaid balance is recognized.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -419,10 +419,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Water-damaged stock.",
-      "answer": "Operational conclusion: Water-damaged stock.",
+      "answer": "Evidence-based conclusion: Water-damaged stock.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "05 Warehouse Count Marta Notes.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium"
     },
@@ -431,10 +431,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Customer insolvency.",
-      "answer": "Operational conclusion: Customer insolvency.",
+      "answer": "Evidence-based conclusion: Customer insolvency.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "04 Contracts Returns and Angry Customers.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium"
     },
@@ -443,10 +443,10 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Former employee claim.",
-      "answer": "Operational conclusion: Former employee claim.",
+      "answer": "Evidence-based conclusion: Former employee claim.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium"
     },
@@ -458,7 +458,7 @@
       "answer": "Materials purchases total €459,000.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "high"
     },
@@ -470,7 +470,7 @@
       "answer": "Customer receipts excluding the €50,000 loan total €899,000.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "high"
     },
@@ -481,8 +481,7 @@
       "question": "Resolve the source and treatment of Closing bank balance.",
       "answer": "Closing bank balance is €60,000.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "high"
     },
@@ -491,21 +490,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify September customer deposits.",
-      "answer": "Operational conclusion: September customer deposits.",
+      "answer": "Evidence-based conclusion: September customer deposits.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify September customer deposits.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Revenue is recognized when the service is provided; cash receipt alone does not mean the September events were earned.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 90000,
+        "assets": 90000,
+        "liabilities": 90000,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -514,21 +512,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify New bank borrowing.",
-      "answer": "Operational conclusion: New bank borrowing.",
+      "answer": "Evidence-based conclusion: New bank borrowing.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify New bank borrowing.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The company has an obligation to repay the advance, so it is a liability rather than revenue.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 50000,
+        "assets": 50000,
+        "liabilities": 50000,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -537,21 +534,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Packaging machine.",
-      "answer": "Operational conclusion: Packaging machine.",
+      "answer": "Evidence-based conclusion: Packaging machine.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Packaging machine.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The packaging machine provides benefits over multiple periods and should be capitalized and depreciated.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": -60000,
+        "assets": 60000,
+        "liabilities": 0,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -560,21 +556,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Photo booth.",
-      "answer": "Operational conclusion: Photo booth.",
+      "answer": "Evidence-based conclusion: Photo booth.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Photo booth.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The photo booth provides benefits across multiple periods, so it should be capitalized rather than immediately expensed.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": -20000,
+        "assets": 20000,
+        "liabilities": 0,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -583,21 +578,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Machine belt and calibration.",
-      "answer": "Operational conclusion: Machine belt and calibration.",
+      "answer": "Evidence-based conclusion: Machine belt and calibration.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Machine belt and calibration.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The work restored normal operation and did not extend useful life or increase capacity, so it is repair expense.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": -10000,
+        "cash": -10000,
+        "assets": -10000,
+        "liabilities": 0,
+        "equity": -10000
       },
       "changedFromAI": false
     },
@@ -606,21 +600,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner villa deposit.",
-      "answer": "Operational conclusion: Owner villa deposit.",
+      "answer": "Evidence-based conclusion: Owner villa deposit.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Owner villa deposit.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The villa is personally owned and no documented customer or business use exists; the payment is an owner distribution.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": -70000,
+        "assets": -70000,
+        "liabilities": 0,
+        "equity": -70000
       },
       "changedFromAI": false
     },
@@ -629,21 +622,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner card spending.",
-      "answer": "Operational conclusion: Owner card spending.",
+      "answer": "Evidence-based conclusion: Owner card spending.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Owner card spending.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The evidence identifies personal owner-card spending and does not support a legitimate company expense classification.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": -40000,
+        "assets": -40000,
+        "liabilities": 0,
+        "equity": -40000
       },
       "changedFromAI": false
     },
@@ -652,21 +644,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Operational conclusion: Physical product materials consumed.",
+      "answer": "Evidence-based conclusion: Physical product materials consumed.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Physical product materials consumed.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Materials were consumed in producing goods delivered to customers, so the cost belongs in COGS rather than closing inventory.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": -405000,
+        "cash": 0,
+        "assets": -405000,
+        "liabilities": 0,
+        "equity": -405000
       },
       "changedFromAI": false
     },
@@ -675,21 +666,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Event staff payroll.",
-      "answer": "Operational conclusion: Event staff payroll.",
+      "answer": "Evidence-based conclusion: Event staff payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Event staff payroll.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The staff directly delivered paid customer events, making the payroll a direct service cost.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 0,
+        "assets": 0,
+        "liabilities": 0,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -698,10 +688,9 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Sales team payroll.",
-      "answer": "Operational conclusion: Sales team payroll.",
+      "answer": "Evidence-based conclusion: Sales team payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -710,10 +699,9 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Office payroll.",
-      "answer": "Operational conclusion: Office payroll.",
+      "answer": "Evidence-based conclusion: Office payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -722,10 +710,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Rent.",
-      "answer": "Operational conclusion: Rent.",
+      "answer": "Evidence-based conclusion: Rent.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -734,10 +722,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Marketing.",
-      "answer": "Operational conclusion: Marketing.",
+      "answer": "Evidence-based conclusion: Marketing.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -746,10 +734,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Software.",
-      "answer": "Operational conclusion: Software.",
+      "answer": "Evidence-based conclusion: Software.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -758,10 +746,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Utilities.",
-      "answer": "Operational conclusion: Utilities.",
+      "answer": "Evidence-based conclusion: Utilities.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -770,21 +758,20 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Depreciation.",
-      "answer": "Operational conclusion: Depreciation.",
+      "answer": "Evidence-based conclusion: Depreciation.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Depreciation.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "€24,000 is the best supported period depreciation amount, although detailed useful lives and methods are incomplete.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": -24000,
+        "cash": 0,
+        "assets": -24000,
+        "liabilities": 0,
+        "equity": -24000
       },
       "changedFromAI": false
     },
@@ -793,21 +780,21 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Bad receivable.",
-      "answer": "Operational conclusion: Bad receivable.",
+      "answer": "Evidence-based conclusion: Bad receivable.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "04 Contracts Returns and Angry Customers.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Bad receivable.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The receivable is not expected to be recovered because R-17 entered liquidation; it should be impaired.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": -18000,
+        "cash": 0,
+        "assets": -18000,
+        "liabilities": 0,
+        "equity": -18000
       },
       "changedFromAI": false
     },
@@ -816,21 +803,21 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Damaged stock.",
-      "answer": "Operational conclusion: Damaged stock.",
+      "answer": "Evidence-based conclusion: Damaged stock.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "05 Warehouse Count Marta Notes.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Damaged stock.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The stock physically exists but is damaged and unsaleable, so its carrying value must be written down to zero.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": -22000,
+        "cash": 0,
+        "assets": -22000,
+        "liabilities": 0,
+        "equity": -22000
       },
       "changedFromAI": false
     },
@@ -839,21 +826,21 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Probable legal claim.",
-      "answer": "Operational conclusion: Probable legal claim.",
+      "answer": "Evidence-based conclusion: Probable legal claim.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Probable legal claim.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "A probable reporting-date obligation exists and €25,000 is counsel’s best estimate within the stated range.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": -25000,
+        "cash": 0,
+        "assets": 0,
+        "liabilities": 25000,
+        "equity": -25000
       },
       "changedFromAI": false
     },
@@ -865,7 +852,7 @@
       "answer": "No reliable insurance amount or policy evidence is present; no insurance expense or prepaid balance is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -874,10 +861,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid interest.",
-      "answer": "Operational conclusion: Unpaid interest.",
+      "answer": "Evidence-based conclusion: Unpaid interest.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -886,10 +873,9 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid payroll.",
-      "answer": "Operational conclusion: Unpaid payroll.",
+      "answer": "Evidence-based conclusion: Unpaid payroll.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -898,10 +884,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid suppliers.",
-      "answer": "Operational conclusion: Unpaid suppliers.",
+      "answer": "Evidence-based conclusion: Unpaid suppliers.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "medium"
     },
@@ -910,21 +896,22 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered NorthStar contract.",
-      "answer": "Operational conclusion: Delivered NorthStar contract.",
+      "answer": "Evidence-based conclusion: Delivered NorthStar contract.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Delivered NorthStar contract.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The NorthStar contractual obligations were completed and accepted before the reporting date.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 180000,
+        "cash": 180000,
+        "assets": 180000,
+        "liabilities": 0,
+        "equity": 180000
       },
       "changedFromAI": false
     },
@@ -933,21 +920,22 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Freedom contract.",
-      "answer": "Operational conclusion: Delivered Freedom contract.",
+      "answer": "Evidence-based conclusion: Delivered Freedom contract.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Delivered Freedom contract.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Freedom performance was completed, so the full contract amount was earned; unpaid consideration remains AR.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 200000,
+        "cash": 142000,
+        "assets": 200000,
+        "liabilities": 0,
+        "equity": 200000
       },
       "changedFromAI": false
     },
@@ -956,21 +944,22 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Completed Phoenix event.",
-      "answer": "Operational conclusion: Completed Phoenix event.",
+      "answer": "Evidence-based conclusion: Completed Phoenix event.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Completed Phoenix event.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The Phoenix event was completed and accepted before reporting date, so the full contract amount is revenue.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 100000,
+        "cash": 70000,
+        "assets": 100000,
+        "liabilities": 0,
+        "equity": 100000
       },
       "changedFromAI": false
     },
@@ -979,21 +968,22 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Liberty order.",
-      "answer": "Operational conclusion: Delivered Liberty order.",
+      "answer": "Evidence-based conclusion: Delivered Liberty order.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Delivered Liberty order.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The Liberty order was delivered and accepted in full before reporting date, so the full amount is earned.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 120000,
+        "cash": 95000,
+        "assets": 120000,
+        "liabilities": 0,
+        "equity": 120000
       },
       "changedFromAI": false
     },
@@ -1002,21 +992,22 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Undelivered September events.",
-      "answer": "Operational conclusion: Undelivered September events.",
+      "answer": "Evidence-based conclusion: Undelivered September events.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "03 CRM Export Cleaned FINAL.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf",
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Undelivered September events.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The September events were not delivered by 31 August; the cash is a contract liability, not August revenue.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 90000,
+        "assets": 90000,
+        "liabilities": 90000,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -1025,10 +1016,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Loan principal payment.",
-      "answer": "Operational conclusion: Loan principal payment.",
+      "answer": "Evidence-based conclusion: Loan principal payment.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -1037,10 +1028,10 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Equipment purchase.",
-      "answer": "Operational conclusion: Equipment purchase.",
+      "answer": "Evidence-based conclusion: Equipment purchase.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -1049,21 +1040,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing bad-debt allowance/write-off and document the basis.",
-      "answer": "Operational conclusion: Closing bad-debt allowance/write-off and document the basis.",
+      "answer": "Evidence-based conclusion: Closing bad-debt allowance/write-off and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "04 Contracts Returns and Angry Customers.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Closing bad-debt allowance/write-off and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The liquidation evidence confirms the R-17 balance is not recoverable; this is the same €18,000 adjustment as D057.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 0,
+        "assets": -18000,
+        "liabilities": 0,
+        "equity": -18000
       },
       "changedFromAI": false
     },
@@ -1072,21 +1063,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Damaged inventory write-off and document the basis.",
-      "answer": "Operational conclusion: Damaged inventory write-off and document the basis.",
+      "answer": "Evidence-based conclusion: Damaged inventory write-off and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "05 Warehouse Count Marta Notes.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Damaged inventory write-off and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The damaged stock cannot be sold and should not remain in valuable closing inventory; this is the same adjustment as D058.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 0,
+        "assets": -22000,
+        "liabilities": 0,
+        "equity": -22000
       },
       "changedFromAI": false
     },
@@ -1095,21 +1086,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Legal provision and document the basis.",
-      "answer": "Operational conclusion: Legal provision and document the basis.",
+      "answer": "Evidence-based conclusion: Legal provision and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Legal provision and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The probable legal obligation belongs in closing liabilities; this is the same €25,000 adjustment as D059.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 0,
+        "assets": 0,
+        "liabilities": 25000,
+        "equity": -25000
       },
       "changedFromAI": false
     },
@@ -1118,21 +1109,20 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Period depreciation and document the basis.",
-      "answer": "Operational conclusion: Period depreciation and document the basis.",
+      "answer": "Evidence-based conclusion: Period depreciation and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Period depreciation and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The best supported depreciation amount belongs in closing accounts; this is the same €24,000 adjustment as D056.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": -24000,
+        "cash": 0,
+        "assets": -24000,
+        "liabilities": 0,
+        "equity": -24000
       },
       "changedFromAI": false
     },
@@ -1141,21 +1131,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing inventory and document the basis.",
-      "answer": "Operational conclusion: Closing inventory and document the basis.",
+      "answer": "Evidence-based conclusion: Closing inventory and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "05 Warehouse Count Marta Notes.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Estimate Closing inventory and document the basis.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "The physical count is direct reporting-date evidence, while the €9,000 difference against the flow calculation remains unresolved and must not be plugged.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 0,
+        "assets": 121000,
+        "liabilities": 0,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -1164,10 +1154,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing receivables and document the basis.",
-      "answer": "Operational conclusion: Closing receivables and document the basis.",
+      "answer": "Evidence-based conclusion: Closing receivables and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "04 Contracts Returns and Angry Customers.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium"
     },
@@ -1176,10 +1166,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Repair versus improvement amount and document the basis.",
-      "answer": "Operational conclusion: Repair versus improvement amount and document the basis.",
+      "answer": "Evidence-based conclusion: Repair versus improvement amount and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -1190,8 +1180,7 @@
       "question": "Estimate Insurance expense and document the basis.",
       "answer": "No reliable insurance amount or policy evidence is present; no insurance expense or prepaid balance is recognized.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -1200,10 +1189,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Interest payable and document the basis.",
-      "answer": "Operational conclusion: Interest payable and document the basis.",
+      "answer": "Evidence-based conclusion: Interest payable and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -1212,10 +1201,9 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accrued payroll and document the basis.",
-      "answer": "Operational conclusion: Accrued payroll and document the basis.",
+      "answer": "Evidence-based conclusion: Accrued payroll and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
       "confidence": "medium"
     },
@@ -1224,10 +1212,9 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Customer deposit liability and document the basis.",
-      "answer": "Operational conclusion: Customer deposit liability and document the basis.",
+      "answer": "Evidence-based conclusion: Customer deposit liability and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -1236,10 +1223,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate PPE closing cost and document the basis.",
-      "answer": "Operational conclusion: PPE closing cost and document the basis.",
+      "answer": "Evidence-based conclusion: PPE closing cost and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -1248,10 +1235,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accumulated depreciation and document the basis.",
-      "answer": "Operational conclusion: Accumulated depreciation and document the basis.",
+      "answer": "Evidence-based conclusion: Accumulated depreciation and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium"
     },
@@ -1260,10 +1247,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Supplier payable and document the basis.",
-      "answer": "Operational conclusion: Supplier payable and document the basis.",
+      "answer": "Evidence-based conclusion: Supplier payable and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "06 Purchases Invoices and Goods Received.pdf"
       ],
       "confidence": "medium"
     },
@@ -1272,10 +1259,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing loan and document the basis.",
-      "answer": "Operational conclusion: Closing loan and document the basis.",
+      "answer": "Evidence-based conclusion: Closing loan and document the basis.",
       "evidence": [
         "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium"
     },
@@ -1284,10 +1271,10 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Physical COGS and document the basis.",
-      "answer": "Operational conclusion: Physical COGS and document the basis.",
+      "answer": "Evidence-based conclusion: Physical COGS and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "05 Warehouse Count Marta Notes.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium"
     },
@@ -1296,10 +1283,9 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Service direct payroll and document the basis.",
-      "answer": "Operational conclusion: Service direct payroll and document the basis.",
+      "answer": "Evidence-based conclusion: Service direct payroll and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -1308,10 +1294,9 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Owner distributions and document the basis.",
-      "answer": "Operational conclusion: Owner distributions and document the basis.",
+      "answer": "Evidence-based conclusion: Owner distributions and document the basis.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "medium"
     },
@@ -1322,8 +1307,7 @@
       "question": "Estimate Net profit and document the basis.",
       "answer": "Quantified reconstructed profit is €65,000.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "high"
     },
@@ -1334,8 +1318,7 @@
       "question": "Estimate Closing cash and document the basis.",
       "answer": "Closing cash is €60,000.",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "02 Bank Export August.csv"
       ],
       "confidence": "high"
     },
@@ -1344,21 +1327,21 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Approve corrected accounts before valuation",
-      "answer": "Operational conclusion: corrected accounts before valuation",
+      "answer": "Evidence-based conclusion: corrected accounts before valuation",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Approve corrected accounts before valuation",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Valuation should use corrected, evidence-supported accounts, with remaining reconciliation issues resolved or transparently documented.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 0,
+        "assets": 0,
+        "liabilities": 0,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -1367,10 +1350,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Freeze owner-card access",
-      "answer": "Operational conclusion: owner-card access",
+      "answer": "Evidence-based conclusion: owner-card access",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1379,10 +1362,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Move September deposits to contract liabilities",
-      "answer": "Operational conclusion: September deposits to contract liabilities",
+      "answer": "Evidence-based conclusion: September deposits to contract liabilities",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1391,10 +1374,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Begin weekly 13-week cash forecast",
-      "answer": "Operational conclusion: weekly 13-week cash forecast",
+      "answer": "Evidence-based conclusion: weekly 13-week cash forecast",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1403,10 +1386,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Stop credit sales to insolvent/high-risk customers",
-      "answer": "Operational conclusion: credit sales to insolvent/high-risk customers",
+      "answer": "Evidence-based conclusion: credit sales to insolvent/high-risk customers",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1415,10 +1398,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Dispose of damaged stock",
-      "answer": "Operational conclusion: damaged stock",
+      "answer": "Evidence-based conclusion: damaged stock",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1427,10 +1410,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Investigate management override and duplicate sources",
-      "answer": "Operational conclusion: management override and duplicate sources",
+      "answer": "Evidence-based conclusion: management override and duplicate sources",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1439,10 +1422,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Renegotiate supplier terms",
-      "answer": "Operational conclusion: supplier terms",
+      "answer": "Evidence-based conclusion: supplier terms",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1451,10 +1434,10 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Continue core Finally Single and event operations",
-      "answer": "Operational conclusion: core Finally Single and event operations",
+      "answer": "Evidence-based conclusion: core Finally Single and event operations",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium"
     },
@@ -1463,21 +1446,21 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Use claimed management profit for earn-out",
-      "answer": "Operational conclusion: claimed management profit for earn-out",
+      "answer": "Evidence-based conclusion: claimed management profit for earn-out",
       "evidence": [
-        "02 Bank Export August.csv",
-        "03 CRM Export Cleaned FINAL.xlsx"
+        "00 BOARD ORDER READ FIRST.pdf",
+        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Use claimed management profit for earn-out",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "An earn-out should use supported financial results and the actual agreement, not management’s uncorrected €312,000 profit claim.",
       "statementEffect": {
-        "profit": null,
-        "cash": null,
-        "assets": null,
-        "liabilities": null,
-        "equity": null
+        "profit": 0,
+        "cash": 0,
+        "assets": 0,
+        "liabilities": 0,
+        "equity": 0
       },
       "changedFromAI": false
     }
