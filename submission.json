@@ -644,7 +644,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Evidence-based conclusion: Physical product materials consumed.",
+      "answer": "Selected-basis materials COGS is €396,000, matching €121,000 closing inventory; the source €405,000 roll-forward implies €112,000 and leaves a disclosed €9,000 difference.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -653,11 +653,11 @@
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Materials were consumed in producing goods delivered to customers, so the cost belongs in COGS rather than closing inventory.",
       "statementEffect": {
-        "profit": -405000,
+        "profit": -396000,
         "cash": 0,
-        "assets": -405000,
+        "assets": -396000,
         "liabilities": 0,
-        "equity": -405000
+        "equity": -396000
       },
       "changedFromAI": false
     },
@@ -1271,7 +1271,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Physical COGS and document the basis.",
-      "answer": "Evidence-based conclusion: Physical COGS and document the basis.",
+      "answer": "Selected-basis materials COGS is €396,000, matching €121,000 closing inventory; the source €405,000 roll-forward implies €112,000 and leaves a disclosed €9,000 difference.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1305,7 +1305,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Net profit and document the basis.",
-      "answer": "Quantified reconstructed profit is €65,000.",
+      "answer": "Selected-basis reconstructed profit is €74,000; €65,000 is the alternative using the source roll-forward, with the €9,000 difference disclosed.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -1533,11 +1533,11 @@
     "inventoryCOGS": {
       "openingInventory": 80000,
       "purchases": 459000,
-      "consumed": 405000,
+      "selectedClosingInventory": 121000,
+      "selectedBasisCOGS": 396000,
       "damagedWriteOff": 22000,
-      "flowDerivedNetClosing": 112000,
-      "physicalCount": 143000,
-      "selectedNetClosing": 121000,
+      "sourceCertifiedConsumption": 405000,
+      "sourceFlowDerivedNetClosing": 112000,
       "unresolvedDifference": 9000
     },
     "operatingExpenses": {
@@ -1553,13 +1553,16 @@
       "ownerCard": 40000,
       "total": 110000,
       "openingEquity": "not established",
-      "rollForward": "unresolved: opening equity evidence missing"
+      "rollForward": "Implied opening equity €170,000 + selected-basis profit €74,000 - distributions €110,000 = implied closing equity €134,000; opening equity remains unsupported evidence."
     }
   },
   "statements": {
     "profitAndLoss": {
       "revenue": 960000,
-      "profit": 65000
+      "physicalProductCOGS": 396000,
+      "directEventPayroll": 80000,
+      "operatingExpenses": 410000,
+      "profit": 74000
     },
     "cashFlow": {
       "openingCash": 80000,
@@ -1617,6 +1620,6 @@
     "Monthly payroll split"
   ],
   "boardRecommendation": {
-    "text": "Do not rely on management profit of €312,000. Use corrected profit of €65,000 and bank-supported closing cash of €60,000; investigate the €9,000 inventory, €45,000 supplier/AP, opening equity and insurance evidence without unsupported plugs."
+    "text": "Use selected physical-count inventory €121,000, selected-basis COGS €396,000 and reconstructed profit €74,000. Disclose and investigate the source roll-forward €112,000 and €9,000 difference; do not plug it."
   }
 }
