@@ -644,7 +644,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Selected-basis materials COGS is €396,000, matching €121,000 closing inventory; the source €405,000 roll-forward implies €112,000 and leaves a disclosed €9,000 difference.",
+      "answer": "Certified materials consumed remains €405,000 for the primary quantified reconstruction; the €121,000 physical-count inventory is shown separately from the €112,000 flow alternative.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -653,11 +653,11 @@
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Materials were consumed in producing goods delivered to customers, so the cost belongs in COGS rather than closing inventory.",
       "statementEffect": {
-        "profit": -396000,
+        "profit": -405000,
         "cash": 0,
-        "assets": -396000,
+        "assets": -405000,
         "liabilities": 0,
-        "equity": -396000
+        "equity": -405000
       },
       "changedFromAI": false
     },
@@ -1131,7 +1131,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing inventory and document the basis.",
-      "answer": "Evidence-based conclusion: Closing inventory and document the basis.",
+      "answer": "Show both alternatives: €121,000 count-based net inventory and €112,000 flow-derived net inventory; disclose the €9,000 unresolved difference.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1271,7 +1271,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Physical COGS and document the basis.",
-      "answer": "Selected-basis materials COGS is €396,000, matching €121,000 closing inventory; the source €405,000 roll-forward implies €112,000 and leaves a disclosed €9,000 difference.",
+      "answer": "Primary quantified COGS is €405,000. If the €121,000 count basis were used to recalculate consumption, sensitivity COGS would be €396,000 and profit €74,000.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1305,7 +1305,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Net profit and document the basis.",
-      "answer": "Selected-basis reconstructed profit is €74,000; €65,000 is the alternative using the source roll-forward, with the €9,000 difference disclosed.",
+      "answer": "Primary quantified reconstruction is €65,000, evidence-qualified. €74,000 is a sensitivity outcome if the €9,000 inventory difference reduces COGS.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -1533,12 +1533,14 @@
     "inventoryCOGS": {
       "openingInventory": 80000,
       "purchases": 459000,
-      "selectedClosingInventory": 121000,
-      "selectedBasisCOGS": 396000,
+      "consumedMaterials": 405000,
       "damagedWriteOff": 22000,
-      "sourceCertifiedConsumption": 405000,
-      "sourceFlowDerivedNetClosing": 112000,
-      "unresolvedDifference": 9000
+      "flowDerivedNetClosing": 112000,
+      "physicalCount": 143000,
+      "selectedCountNetClosing": 121000,
+      "unresolvedDifference": 9000,
+      "sensitivityIf121UsedAsCOGSBasis": 74000,
+      "treatment": "Primary quantified profit remains €65,000; both inventory alternatives and the €9,000 conflict are disclosed."
     },
     "operatingExpenses": {
       "rent": 48000,
@@ -1553,16 +1555,17 @@
       "ownerCard": 40000,
       "total": 110000,
       "openingEquity": "not established",
-      "rollForward": "Implied opening equity €170,000 + selected-basis profit €74,000 - distributions €110,000 = implied closing equity €134,000; opening equity remains unsupported evidence."
+      "rollForward": "Equity remains qualified because complete opening balances are not established. Inventory choice affects closing assets and reported equity; no unsupported opening equity plug is created."
     }
   },
   "statements": {
     "profitAndLoss": {
       "revenue": 960000,
-      "physicalProductCOGS": 396000,
+      "physicalProductCOGS": 405000,
       "directEventPayroll": 80000,
       "operatingExpenses": 410000,
-      "profit": 74000
+      "quantifiedProfit": 65000,
+      "status": "evidence-qualified; not an unconditional final profit"
     },
     "cashFlow": {
       "openingCash": 80000,
@@ -1589,27 +1592,27 @@
       "difference": 0
     },
     {
-      "name": "Inventory count versus flow",
-      "status": "unresolved",
-      "difference": 9000,
-      "calculation": "80000 + 459000 - 405000 - 22000 = 112000; physical count 143000 - 22000 = 121000"
-    },
-    {
       "name": "Supplier/AP",
       "status": "unresolved",
       "difference": 45000
-    },
-    {
-      "name": "Opening equity roll-forward",
-      "status": "unresolved",
-      "difference": null,
-      "reason": "Opening equity and opening AP evidence are not established; no plug created"
     },
     {
       "name": "Prepaid insurance",
       "status": "unresolved",
       "difference": null,
       "reason": "No reliable insurance policy, prepaid balance or consumption evidence identified"
+    },
+    {
+      "name": "Inventory alternatives",
+      "status": "unresolved",
+      "difference": 9000,
+      "calculation": "Flow: 80000 + 459000 - 405000 - 22000 = 112000; count: 143000 - 22000 = 121000; sensitivity profit = 65000 + 9000 = 74000."
+    },
+    {
+      "name": "Opening equity roll-forward",
+      "status": "unresolved",
+      "difference": null,
+      "reason": "Complete opening balance sheet evidence is missing; no plug created"
     }
   ],
   "uncertainties": [
@@ -1620,6 +1623,6 @@
     "Monthly payroll split"
   ],
   "boardRecommendation": {
-    "text": "Use selected physical-count inventory €121,000, selected-basis COGS €396,000 and reconstructed profit €74,000. Disclose and investigate the source roll-forward €112,000 and €9,000 difference; do not plug it."
+    "text": "Use €65,000 as the primary evidence-qualified quantified reconstruction, not an unconditional final profit. Present €112,000 flow-derived and €121,000 count-based inventory alternatives, disclose the €9,000 conflict, and show €74,000 only as sensitivity if the difference reduces COGS. Insurance amounts and complete opening balances are not supplied."
   }
 }
