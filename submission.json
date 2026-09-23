@@ -1566,7 +1566,7 @@
       "directEventPayroll": 80000,
       "operatingExpenses": 410000,
       "quantifiedProfit": 65000,
-      "status": "evidence-qualified; not an unconditional final profit"
+      "status": "primary evidence-qualified reconstruction; €74,000 is inventory sensitivity only, not the submitted primary profit"
     },
     "cashFlow": {
       "openingCash": 80000,
@@ -1624,6 +1624,6 @@
     "Monthly payroll split"
   ],
   "boardRecommendation": {
-    "text": "Use EUR65,000 as the primary evidence-qualified quantified reconstruction based on certified EUR405,000 consumption. Show EUR121,000 selected count inventory and EUR112,000 flow inventory as alternatives, disclose EUR9,000 unresolved difference, and show EUR74,000 only as sensitivity."
+    "text": "Submit €65,000 as the primary evidence-qualified quantified reconstruction. €74,000 is sensitivity only if the unresolved €9,000 inventory difference reduces COGS. Do not use an unsupported plug."
   }
 }
