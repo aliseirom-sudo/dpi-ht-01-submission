@@ -11,7 +11,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of NorthStar receipt.",
-      "answer": "Evidence-based conclusion: NorthStar receipt.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -24,7 +24,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Freedom receipt 1.",
-      "answer": "Evidence-based conclusion: Freedom receipt 1.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -37,7 +37,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Phoenix receipt.",
-      "answer": "Evidence-based conclusion: Phoenix receipt.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -50,7 +50,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Liberty receipt.",
-      "answer": "Evidence-based conclusion: Liberty receipt.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -63,7 +63,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Opening receivable receipt.",
-      "answer": "Evidence-based conclusion: Opening receivable receipt.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -76,7 +76,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Finally Single web receipts.",
-      "answer": "Evidence-based conclusion: Finally Single web receipts.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -89,7 +89,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Never Call Back web receipts.",
-      "answer": "Evidence-based conclusion: Never Call Back web receipts.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -102,7 +102,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of New Beginnings deposit.",
-      "answer": "Evidence-based conclusion: New Beginnings deposit.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -115,7 +115,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Fresh Freedom deposit.",
-      "answer": "Evidence-based conclusion: Fresh Freedom deposit.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -128,7 +128,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Box supplier payment.",
-      "answer": "Evidence-based conclusion: Box supplier payment.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "06 Purchases Invoices and Goods Received.pdf"
@@ -140,7 +140,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Glass supplier payment.",
-      "answer": "Evidence-based conclusion: Glass supplier payment.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "06 Purchases Invoices and Goods Received.pdf"
@@ -152,7 +152,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Print supplier payment.",
-      "answer": "Evidence-based conclusion: Print supplier payment.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "06 Purchases Invoices and Goods Received.pdf"
@@ -164,7 +164,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Event supplier payment.",
-      "answer": "Evidence-based conclusion: Event supplier payment.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "06 Purchases Invoices and Goods Received.pdf"
@@ -176,7 +176,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of January payroll.",
-      "answer": "Evidence-based conclusion: January payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -187,7 +187,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of February payroll.",
-      "answer": "Evidence-based conclusion: February payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -198,7 +198,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of March payroll.",
-      "answer": "Evidence-based conclusion: March payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -209,7 +209,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of April payroll.",
-      "answer": "Evidence-based conclusion: April payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -220,7 +220,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of May payroll.",
-      "answer": "Evidence-based conclusion: May payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -231,7 +231,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of June payroll.",
-      "answer": "Evidence-based conclusion: June payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -242,7 +242,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of July payroll.",
-      "answer": "Evidence-based conclusion: July payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -253,7 +253,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of August payroll.",
-      "answer": "Evidence-based conclusion: August payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -264,7 +264,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Rent payments.",
-      "answer": "Evidence-based conclusion: Rent payments.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -276,7 +276,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Meta and influencer payments.",
-      "answer": "Evidence-based conclusion: Meta and influencer payments.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -288,7 +288,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Software payments.",
-      "answer": "Evidence-based conclusion: Software payments.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -300,7 +300,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Utilities payments.",
-      "answer": "Evidence-based conclusion: Utilities payments.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -312,7 +312,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Repair transfer.",
-      "answer": "Evidence-based conclusion: Repair transfer.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -324,7 +324,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Packaging machine payment.",
-      "answer": "Evidence-based conclusion: Packaging machine payment.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -336,7 +336,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Photo booth payment.",
-      "answer": "Evidence-based conclusion: Photo booth payment.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -348,7 +348,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan receipt.",
-      "answer": "Evidence-based conclusion: Loan receipt.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -360,7 +360,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan repayments.",
-      "answer": "Evidence-based conclusion: Loan repayments.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -372,7 +372,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Interest payments.",
-      "answer": "Evidence-based conclusion: Interest payments.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -384,7 +384,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Villa deposit.",
-      "answer": "Evidence-based conclusion: Villa deposit.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -396,7 +396,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Owner card spending.",
-      "answer": "Evidence-based conclusion: Owner card spending.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -419,7 +419,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Water-damaged stock.",
-      "answer": "Evidence-based conclusion: Water-damaged stock.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -431,7 +431,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Customer insolvency.",
-      "answer": "Evidence-based conclusion: Customer insolvency.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "04 Contracts Returns and Angry Customers.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -443,7 +443,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Former employee claim.",
-      "answer": "Evidence-based conclusion: Former employee claim.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "09 Loans Owner Card and Legal Problems.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -490,7 +490,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify September customer deposits.",
-      "answer": "Evidence-based conclusion: September customer deposits.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -512,7 +512,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify New bank borrowing.",
-      "answer": "Evidence-based conclusion: New bank borrowing.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -534,7 +534,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Packaging machine.",
-      "answer": "Evidence-based conclusion: Packaging machine.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -556,7 +556,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Photo booth.",
-      "answer": "Evidence-based conclusion: Photo booth.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -578,7 +578,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Machine belt and calibration.",
-      "answer": "Evidence-based conclusion: Machine belt and calibration.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -600,7 +600,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner villa deposit.",
-      "answer": "Evidence-based conclusion: Owner villa deposit.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -622,7 +622,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner card spending.",
-      "answer": "Evidence-based conclusion: Owner card spending.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -666,7 +666,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Event staff payroll.",
-      "answer": "Evidence-based conclusion: Event staff payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -688,7 +688,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Sales team payroll.",
-      "answer": "Evidence-based conclusion: Sales team payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -699,7 +699,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Office payroll.",
-      "answer": "Evidence-based conclusion: Office payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -710,7 +710,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Rent.",
-      "answer": "Evidence-based conclusion: Rent.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -722,7 +722,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Marketing.",
-      "answer": "Evidence-based conclusion: Marketing.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -734,7 +734,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Software.",
-      "answer": "Evidence-based conclusion: Software.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -746,7 +746,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Utilities.",
-      "answer": "Evidence-based conclusion: Utilities.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -758,7 +758,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Depreciation.",
-      "answer": "Evidence-based conclusion: Depreciation.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -780,7 +780,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Bad receivable.",
-      "answer": "Evidence-based conclusion: Bad receivable.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "04 Contracts Returns and Angry Customers.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -803,7 +803,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Damaged stock.",
-      "answer": "Evidence-based conclusion: Damaged stock.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -826,7 +826,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Probable legal claim.",
-      "answer": "Evidence-based conclusion: Probable legal claim.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "09 Loans Owner Card and Legal Problems.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -861,7 +861,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid interest.",
-      "answer": "Evidence-based conclusion: Unpaid interest.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -873,7 +873,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid payroll.",
-      "answer": "Evidence-based conclusion: Unpaid payroll.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -884,7 +884,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid suppliers.",
-      "answer": "Evidence-based conclusion: Unpaid suppliers.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "06 Purchases Invoices and Goods Received.pdf"
@@ -896,7 +896,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered NorthStar contract.",
-      "answer": "Evidence-based conclusion: Delivered NorthStar contract.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -920,7 +920,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Freedom contract.",
-      "answer": "Evidence-based conclusion: Delivered Freedom contract.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -944,7 +944,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Completed Phoenix event.",
-      "answer": "Evidence-based conclusion: Completed Phoenix event.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -968,7 +968,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Liberty order.",
-      "answer": "Evidence-based conclusion: Delivered Liberty order.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -992,7 +992,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Undelivered September events.",
-      "answer": "Evidence-based conclusion: Undelivered September events.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1016,7 +1016,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Loan principal payment.",
-      "answer": "Evidence-based conclusion: Loan principal payment.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -1028,7 +1028,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Equipment purchase.",
-      "answer": "Evidence-based conclusion: Equipment purchase.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -1040,7 +1040,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing bad-debt allowance/write-off and document the basis.",
-      "answer": "Evidence-based conclusion: Closing bad-debt allowance/write-off and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "04 Contracts Returns and Angry Customers.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1063,7 +1063,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Damaged inventory write-off and document the basis.",
-      "answer": "Evidence-based conclusion: Damaged inventory write-off and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1086,7 +1086,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Legal provision and document the basis.",
-      "answer": "Evidence-based conclusion: Legal provision and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "09 Loans Owner Card and Legal Problems.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1109,7 +1109,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Period depreciation and document the basis.",
-      "answer": "Evidence-based conclusion: Period depreciation and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -1154,7 +1154,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing receivables and document the basis.",
-      "answer": "Evidence-based conclusion: Closing receivables and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "04 Contracts Returns and Angry Customers.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1166,7 +1166,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Repair versus improvement amount and document the basis.",
-      "answer": "Evidence-based conclusion: Repair versus improvement amount and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -1189,7 +1189,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Interest payable and document the basis.",
-      "answer": "Evidence-based conclusion: Interest payable and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -1201,7 +1201,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accrued payroll and document the basis.",
-      "answer": "Evidence-based conclusion: Accrued payroll and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "07 Payroll Bonuses Contractors NEW.xlsx"
       ],
@@ -1212,7 +1212,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Customer deposit liability and document the basis.",
-      "answer": "Evidence-based conclusion: Customer deposit liability and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -1223,7 +1223,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate PPE closing cost and document the basis.",
-      "answer": "Evidence-based conclusion: PPE closing cost and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -1235,7 +1235,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accumulated depreciation and document the basis.",
-      "answer": "Evidence-based conclusion: Accumulated depreciation and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
@@ -1247,7 +1247,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Supplier payable and document the basis.",
-      "answer": "Evidence-based conclusion: Supplier payable and document the basis.",
+      "answer": "EUR 126,000 confirmed supplier payable.",
       "evidence": [
         "02 Bank Export August.csv",
         "06 Purchases Invoices and Goods Received.pdf"
@@ -1259,7 +1259,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing loan and document the basis.",
-      "answer": "Evidence-based conclusion: Closing loan and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
@@ -1283,7 +1283,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Service direct payroll and document the basis.",
-      "answer": "Evidence-based conclusion: Service direct payroll and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -1294,7 +1294,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Owner distributions and document the basis.",
-      "answer": "Evidence-based conclusion: Owner distributions and document the basis.",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -1327,7 +1327,7 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Approve corrected accounts before valuation",
-      "answer": "Evidence-based conclusion: corrected accounts before valuation",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1350,7 +1350,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Freeze owner-card access",
-      "answer": "Evidence-based conclusion: owner-card access",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1362,7 +1362,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Move September deposits to contract liabilities",
-      "answer": "Evidence-based conclusion: September deposits to contract liabilities",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1374,7 +1374,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Begin weekly 13-week cash forecast",
-      "answer": "Evidence-based conclusion: weekly 13-week cash forecast",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1386,7 +1386,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Stop credit sales to insolvent/high-risk customers",
-      "answer": "Evidence-based conclusion: credit sales to insolvent/high-risk customers",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1398,7 +1398,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Dispose of damaged stock",
-      "answer": "Evidence-based conclusion: damaged stock",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1410,7 +1410,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Investigate management override and duplicate sources",
-      "answer": "Evidence-based conclusion: management override and duplicate sources",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1422,7 +1422,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Renegotiate supplier terms",
-      "answer": "Evidence-based conclusion: supplier terms",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1434,7 +1434,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Continue core Finally Single and event operations",
-      "answer": "Evidence-based conclusion: core Finally Single and event operations",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
@@ -1446,7 +1446,7 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Use claimed management profit for earn-out",
-      "answer": "Evidence-based conclusion: claimed management profit for earn-out",
+      "answer": "Unresolved from supplied evidence; no unsupported amount or plug is recognized.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
