@@ -644,7 +644,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Certified materials consumed remains €405,000 for the primary quantified reconstruction; the €121,000 physical-count inventory is shown separately from the €112,000 flow alternative.",
+      "answer": "Selected-basis materials COGS is €396,000, matching selected closing inventory of €121,000; the €405,000 source-consumption alternative and €9,000 difference remain disclosed.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -653,11 +653,11 @@
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Materials were consumed in producing goods delivered to customers, so the cost belongs in COGS rather than closing inventory.",
       "statementEffect": {
-        "profit": -405000,
+        "profit": -396000,
         "cash": 0,
-        "assets": -405000,
+        "assets": -396000,
         "liabilities": 0,
-        "equity": -405000
+        "equity": -396000
       },
       "changedFromAI": false
     },
@@ -1271,7 +1271,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Physical COGS and document the basis.",
-      "answer": "Primary quantified COGS is €405,000. If the €121,000 count basis were used to recalculate consumption, sensitivity COGS would be €396,000 and profit €74,000.",
+      "answer": "Selected-basis COGS is €396,000; the source roll-forward using €405,000 consumption produces €112,000 inventory and remains disclosed as the €9,000 alternative.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
@@ -1305,7 +1305,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Net profit and document the basis.",
-      "answer": "Primary quantified reconstruction is €65,000, evidence-qualified. €74,000 is a sensitivity outcome if the €9,000 inventory difference reduces COGS.",
+      "answer": "Selected-basis reconstructed profit is €74,000; €65,000 is the alternative using the source €405,000 consumption figure.",
       "evidence": [
         "02 Bank Export August.csv"
       ],
@@ -1540,7 +1540,8 @@
       "selectedCountNetClosing": 121000,
       "unresolvedDifference": 9000,
       "sensitivityIf121UsedAsCOGSBasis": 74000,
-      "treatment": "Primary quantified profit remains €65,000; both inventory alternatives and the €9,000 conflict are disclosed."
+      "treatment": "Selected €121,000 physical-count basis used consistently in statements; €112,000 source roll-forward and €9,000 difference disclosed.",
+      "selectedBasisCOGS": 396000
     },
     "operatingExpenses": {
       "rent": 48000,
@@ -1561,10 +1562,10 @@
   "statements": {
     "profitAndLoss": {
       "revenue": 960000,
-      "physicalProductCOGS": 405000,
+      "physicalProductCOGS": 396000,
       "directEventPayroll": 80000,
       "operatingExpenses": 410000,
-      "quantifiedProfit": 65000,
+      "quantifiedProfit": 74000,
       "status": "evidence-qualified; not an unconditional final profit"
     },
     "cashFlow": {
@@ -1623,6 +1624,6 @@
     "Monthly payroll split"
   ],
   "boardRecommendation": {
-    "text": "Use €65,000 as the primary evidence-qualified quantified reconstruction, not an unconditional final profit. Present €112,000 flow-derived and €121,000 count-based inventory alternatives, disclose the €9,000 conflict, and show €74,000 only as sensitivity if the difference reduces COGS. Insurance amounts and complete opening balances are not supplied."
+    "text": "Use selected €121,000 physical-count inventory, selected-basis €396,000 COGS and €74,000 reconstructed profit. Disclose the €112,000 source roll-forward and €9,000 unresolved difference; do not plug it."
   }
 }
