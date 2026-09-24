@@ -1534,7 +1534,26 @@
       "R17Impairment": 18000,
       "netTradeReceivables": 168000,
       "customerDeposits": 90000,
-      "basis": "Contracts/CRM and bank receipts support completed August revenue. September deposits are contract liabilities."
+      "basis": "CRM rows C-001 to C-004 and WEB-FSB/WEB-NCB support €960,000 August revenue. Cash receipts also include €35,000 opening-AR collection and €90,000 September deposits, which remain contract liabilities.",
+      "finallySingleWebRevenue": 270000,
+      "neverCallBackWebRevenue": 90000,
+      "namedContractRevenue": 600000,
+      "webRevenue": 360000,
+      "NorthStarCashMatched": 180000,
+      "FreedomCashMatched": 142000,
+      "PhoenixCashMatched": 70000,
+      "LibertyCashMatched": 95000,
+      "finallySingleWebCashMatched": 250000,
+      "neverCallBackWebCashMatched": 37000,
+      "cashFromCurrentPeriodRevenue": 774000,
+      "openingReceivableCollection": 35000,
+      "septemberDepositsReceived": 90000,
+      "totalCustomerReceipts": 899000,
+      "FreedomReceivable": 58000,
+      "PhoenixReceivable": 30000,
+      "LibertyReceivable": 25000,
+      "finallySingleWebReceivable": 20000,
+      "neverCallBackWebReceivable": 53000
     },
     "inventoryAndCOGS": {
       "openingInventory": 80000,
@@ -1616,10 +1635,12 @@
       "damagedInventoryWriteOff": 22000,
       "legalProvision": 25000,
       "interestExpense": 12000,
-      "totalOperatingAndOtherExpenses": 410000,
+      "totalOperatingAndOtherExpenses": 388000,
       "quantifiedProfit": 65000,
       "basis": "Primary evidence-qualified reconstruction using €405,000 COGS and €112,000 flow-derived inventory.",
-      "operatingProfit": 77000
+      "operatingProfit": 77000,
+      "costOfSales": 507000,
+      "totalOperatingExpensesBeforeInterest": 376000
     },
     "cashFlow": {
       "openingCash": 80000,
