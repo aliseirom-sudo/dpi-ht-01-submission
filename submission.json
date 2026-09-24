@@ -1556,9 +1556,10 @@
       "salesPayroll": 72000,
       "officePayroll": 96000,
       "totalPayrollExpense": 248000,
-      "cashPaid": 216000,
+      "cashPaid": 231000,
       "closingPayrollAccrual": 32000,
-      "basis": "Aggregate payroll evidence supports the totals. The monthly split and opening accrual are not completely supported."
+      "basis": "€15,000 opening payroll payable + €248,000 period payroll expense - €231,000 cash paid = €32,000 closing payroll payable. Aggregate payroll evidence supports these totals; the detailed monthly split is incomplete.",
+      "openingPayrollPayable": 15000
     },
     "operatingExpenses": {
       "rent": 48000,
@@ -1602,7 +1603,7 @@
       "revenue": 960000,
       "productCOGS": 405000,
       "directEventPayroll": 80000,
-      "grossProfit": 475000,
+      "grossProfit": 453000,
       "salesPayroll": 72000,
       "officePayroll": 96000,
       "rent": 48000,
@@ -1617,7 +1618,8 @@
       "interestExpense": 12000,
       "totalOperatingAndOtherExpenses": 410000,
       "quantifiedProfit": 65000,
-      "basis": "Primary evidence-qualified reconstruction using €405,000 COGS and €112,000 flow-derived inventory."
+      "basis": "Primary evidence-qualified reconstruction using €405,000 COGS and €112,000 flow-derived inventory.",
+      "operatingProfit": 77000
     },
     "cashFlow": {
       "openingCash": 80000,
@@ -1625,7 +1627,17 @@
       "investing": -80000,
       "financingOwner": -79000,
       "closingCash": 60000,
-      "basis": "Closing cash agrees to bank evidence."
+      "basis": "Closing cash agrees to bank evidence.",
+      "customerReceipts": 899000,
+      "supplierPayments": -378000,
+      "payrollPayments": -231000,
+      "rentPayments": -48000,
+      "marketingPayments": -55000,
+      "softwarePayments": -16000,
+      "utilityPayments": -12000,
+      "repairPayments": -10000,
+      "interestPaid": -10000,
+      "directMethodBasis": "€899,000 receipts less €760,000 identified operating payments = €139,000 net operating cash flow."
     },
     "balanceSheet": {
       "cash": 60000,
@@ -1710,5 +1722,10 @@
   ],
   "boardRecommendation": {
     "text": "Use €65,000 as the primary evidence-qualified reconstruction with €112,000 flow-derived inventory and €125,000 residual equity. Disclose—not book—the €121,000 count-based inventory alternative and the €9,000 difference. Do not use management’s €312,000 claim or any unsupported balancing journal."
+  },
+  "studentReviewConfirmation": {
+    "name": "Alise Romanovska",
+    "id": "ar25192",
+    "text": "I, Alise Romanovska (ar25192), confirm that I have personally reviewed the homework conclusions, decision register, supporting evidence references, financial-statement reconstruction, and stated uncertainties. My review supports the qualified Board Recommendation shown in this reconstruction. This confirmation does not certify the accounts as final, audited, complete, or free from uncertainty."
   }
 }
