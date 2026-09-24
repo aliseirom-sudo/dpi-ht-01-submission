@@ -495,7 +495,7 @@
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Classify the €90,000 received for September events as contract liabilities (customer deposits), not August revenue.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "Revenue is recognized when the service is provided; cash receipt alone does not mean the September events were earned.",
@@ -518,7 +518,7 @@
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Classify the €50,000 bank advance as a loan liability, not revenue.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The company has an obligation to repay the advance, so it is a liability rather than revenue.",
@@ -541,7 +541,7 @@
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Capitalize the €60,000 packaging machine as PPE at cost; present its cash payment as an investing outflow.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The packaging machine provides benefits over multiple periods and should be capitalized and depreciated.",
@@ -564,7 +564,7 @@
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Capitalize the €20,000 photo booth as PPE at cost; present its cash payment as an investing outflow.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The photo booth provides benefits across multiple periods, so it should be capitalized rather than immediately expensed.",
@@ -587,7 +587,7 @@
         "02 Bank Export August.csv",
         "08 Assets Repairs Leases Maybe.xlsx"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Expense the €10,000 machine belt and calibration as repair and maintenance, not PPE.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The work restored normal operation and did not extend useful life or increase capacity, so it is repair expense.",
@@ -633,7 +633,7 @@
         "02 Bank Export August.csv",
         "09 Loans Owner Card and Legal Problems.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Classify the €40,000 owner-card spending as an owner distribution, not a company operating expense.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The evidence identifies personal owner-card spending and does not support a legitimate company expense classification.",
@@ -657,7 +657,7 @@
         "06 Purchases Invoices and Goods Received.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "low",
       "aiProposal": "Certified answer: Classify Physical product materials consumed.",
       "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
       "studentReasoning": "Materials were consumed in producing goods delivered to customers, so the cost belongs in COGS rather than closing inventory.",
@@ -680,7 +680,7 @@
         "07 Payroll Bonuses Contractors NEW.xlsx",
         "04 Contracts Returns and Angry Customers.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Classify €80,000 event-staff payroll as direct service cost within cost of sales.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The staff directly delivered paid customer events, making the payroll a direct service cost.",
@@ -796,7 +796,7 @@
         "03 CRM Export Cleaned FINAL.xlsx",
         "11 Evidence Received After Takeover.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Recognize an €18,000 impairment/write-off for the R-17 receivable.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The receivable is not expected to be recovered because R-17 entered liquidation; it should be impaired.",
@@ -819,7 +819,7 @@
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Write down €22,000 of damaged inventory to zero.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The stock physically exists but is damaged and unsaleable, so its carrying value must be written down to zero.",
@@ -912,7 +912,7 @@
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Recognize €180,000 NorthStar revenue because delivery and acceptance occurred before 31 August.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The NorthStar contractual obligations were completed and accepted before the reporting date.",
@@ -936,7 +936,7 @@
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Recognize €200,000 Freedom revenue: €142,000 cash received and €58,000 closing receivable.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "Freedom performance was completed, so the full contract amount was earned; unpaid consideration remains AR.",
@@ -960,7 +960,7 @@
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Recognize €100,000 Phoenix revenue: €70,000 cash received and €30,000 closing receivable.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The Phoenix event was completed and accepted before reporting date, so the full contract amount is revenue.",
@@ -984,7 +984,7 @@
         "03 CRM Export Cleaned FINAL.xlsx",
         "04 Contracts Returns and Angry Customers.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Recognize €120,000 Liberty revenue: €95,000 cash received and €25,000 closing receivable.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The Liberty order was delivered and accepted in full before reporting date, so the full amount is earned.",
@@ -1007,7 +1007,7 @@
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Recognize no August revenue for the undelivered September events; retain €90,000 as customer deposits.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The September events were not delivered by 31 August; the cash is a contract liability, not August revenue.",
@@ -1054,7 +1054,7 @@
         "03 CRM Export Cleaned FINAL.xlsx",
         "11 Evidence Received After Takeover.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Close gross receivables at €186,000 and reduce them by the same €18,000 R-17 impairment recorded in D057.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The liquidation evidence confirms the R-17 balance is not recoverable; this is the same €18,000 adjustment as D057.",
@@ -1077,7 +1077,7 @@
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Close damaged inventory at zero through the same €22,000 write-down recorded in D058.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The damaged stock cannot be sold and should not remain in valuable closing inventory; this is the same adjustment as D058.",
@@ -1147,7 +1147,7 @@
         "06 Purchases Invoices and Goods Received.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "low",
       "aiProposal": "Primary statements use €112,000 flow-derived inventory to remain consistent with €405,000 COGS and €65,000 profit. The €121,000 count-based amount is an evidence-supported alternative; the €9,000 difference remains unresolved and unposted.",
       "independentChallenge": "The count evidence supports €121,000 after the damage write-down, but the roll-forward supports €112,000. Neither source identifies the €9,000 cause, so no journal is posted and the primary statements retain the flow basis.",
       "studentReasoning": "The physical count is direct reporting-date evidence, while the €9,000 difference against the flow calculation remains unresolved and must not be plugged.",
@@ -1462,7 +1462,7 @@
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "aiProposal": "Do not use management’s unsupported €312,000 profit for the earn-out; use the €65,000 evidence-qualified reconstruction with stated limitations.",
       "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "An earn-out should use supported financial results and the actual agreement, not management’s uncorrected €312,000 profit claim.",
