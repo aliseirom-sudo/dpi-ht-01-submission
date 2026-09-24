@@ -1,5 +1,10 @@
 {
   "rewrites": [
-    { "source": "/review", "destination": "/index.html" }
+    { "source": "/review", "destination": "/index.html" },
+    { "source": "/statements", "destination": "/index.html" },
+    { "source": "/schedules", "destination": "/index.html" },
+    { "source": "/evidence", "destination": "/index.html" },
+    { "source": "/reconciliations", "destination": "/index.html" },
+    { "source": "/decisions", "destination": "/index.html" }
   ]
 }

@@ -490,13 +490,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify September customer deposits.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Classify the €90,000 received for September events as contract liabilities (customer deposits), not August revenue.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "04 Contracts Returns and Angry Customers.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify September customer deposits.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Classify the €90,000 received for September events as contract liabilities (customer deposits), not August revenue.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "Revenue is recognized when the service is provided; cash receipt alone does not mean the September events were earned.",
       "statementEffect": {
         "profit": 0,
@@ -512,13 +513,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify New bank borrowing.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Classify the €50,000 bank advance as a loan liability, not revenue.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify New bank borrowing.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Classify the €50,000 bank advance as a loan liability, not revenue.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The company has an obligation to repay the advance, so it is a liability rather than revenue.",
       "statementEffect": {
         "profit": 0,
@@ -534,18 +536,19 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Packaging machine.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Capitalize the €60,000 packaging machine as PPE at cost; present its cash payment as an investing outflow.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Packaging machine.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Capitalize the €60,000 packaging machine as PPE at cost; present its cash payment as an investing outflow.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The packaging machine provides benefits over multiple periods and should be capitalized and depreciated.",
       "statementEffect": {
         "profit": 0,
         "cash": -60000,
-        "assets": 60000,
+        "assets": 0,
         "liabilities": 0,
         "equity": 0
       },
@@ -556,18 +559,19 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Photo booth.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Capitalize the €20,000 photo booth as PPE at cost; present its cash payment as an investing outflow.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Photo booth.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Capitalize the €20,000 photo booth as PPE at cost; present its cash payment as an investing outflow.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The photo booth provides benefits across multiple periods, so it should be capitalized rather than immediately expensed.",
       "statementEffect": {
         "profit": 0,
         "cash": -20000,
-        "assets": 20000,
+        "assets": 0,
         "liabilities": 0,
         "equity": 0
       },
@@ -578,13 +582,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Machine belt and calibration.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Expense the €10,000 machine belt and calibration as repair and maintenance, not PPE.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "08 Assets Repairs Leases Maybe.xlsx"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Machine belt and calibration.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Expense the €10,000 machine belt and calibration as repair and maintenance, not PPE.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The work restored normal operation and did not extend useful life or increase capacity, so it is repair expense.",
       "statementEffect": {
         "profit": -10000,
@@ -600,13 +605,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner villa deposit.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Classify the €70,000 villa payment as an owner distribution, not a company operating expense.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Owner villa deposit.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Classify the €70,000 villa payment as an owner distribution, not a company operating expense.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The villa is personally owned and no documented customer or business use exists; the payment is an owner distribution.",
       "statementEffect": {
         "profit": 0,
@@ -622,13 +628,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner card spending.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Classify the €40,000 owner-card spending as an owner distribution, not a company operating expense.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "09 Loans Owner Card and Legal Problems.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Owner card spending.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Classify the €40,000 owner-card spending as an owner distribution, not a company operating expense.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The evidence identifies personal owner-card spending and does not support a legitimate company expense classification.",
       "statementEffect": {
         "profit": 0,
@@ -644,9 +651,11 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Primary quantified COGS remains EUR405,000 based on certified materials consumed; selected EUR121,000 closing inventory is disclosed separately with the EUR9,000 unresolved reconciliation.",
+      "answer": "Recognize €405,000 materials consumed as primary COGS. This produces €112,000 flow-derived closing inventory after the €22,000 damaged-stock write-off; the €121,000 physical-count alternative is disclosed, not booked.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "05 Warehouse Count Marta Notes.pdf",
+        "06 Purchases Invoices and Goods Received.pdf",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
       "aiProposal": "Certified answer: Classify Physical product materials consumed.",
@@ -666,20 +675,21 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Event staff payroll.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Classify €80,000 event-staff payroll as direct service cost within cost of sales.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "07 Payroll Bonuses Contractors NEW.xlsx",
+        "04 Contracts Returns and Angry Customers.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Event staff payroll.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Classify €80,000 event-staff payroll as direct service cost within cost of sales.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The staff directly delivered paid customer events, making the payroll a direct service cost.",
       "statementEffect": {
-        "profit": 0,
+        "profit": -80000,
         "cash": 0,
-        "assets": 0,
+        "assets": -80000,
         "liabilities": 0,
-        "equity": 0
+        "equity": -80000
       },
       "changedFromAI": false
     },
@@ -758,13 +768,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Depreciation.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize €24,000 depreciation expense; disclose that detailed useful-life evidence is incomplete.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "08 Assets Repairs Leases Maybe.xlsx",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Depreciation.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize €24,000 depreciation expense; disclose that detailed useful-life evidence is incomplete.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "€24,000 is the best supported period depreciation amount, although detailed useful lives and methods are incomplete.",
       "statementEffect": {
         "profit": -24000,
@@ -780,14 +791,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Bad receivable.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize an €18,000 impairment/write-off for the R-17 receivable.",
       "evidence": [
-        "04 Contracts Returns and Angry Customers.pdf",
+        "03 CRM Export Cleaned FINAL.xlsx",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Bad receivable.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize an €18,000 impairment/write-off for the R-17 receivable.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The receivable is not expected to be recovered because R-17 entered liquidation; it should be impaired.",
       "statementEffect": {
         "profit": -18000,
@@ -803,14 +814,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Damaged stock.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Write down €22,000 of damaged inventory to zero.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Damaged stock.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Write down €22,000 of damaged inventory to zero.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The stock physically exists but is damaged and unsaleable, so its carrying value must be written down to zero.",
       "statementEffect": {
         "profit": -22000,
@@ -826,14 +837,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Probable legal claim.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize a €25,000 legal provision based on the probable claim and counsel estimate.",
       "evidence": [
         "09 Loans Owner Card and Legal Problems.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Probable legal claim.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize a €25,000 legal provision based on the probable claim and counsel estimate.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "A probable reporting-date obligation exists and €25,000 is counsel’s best estimate within the stated range.",
       "statementEffect": {
         "profit": -25000,
@@ -896,15 +907,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered NorthStar contract.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize €180,000 NorthStar revenue because delivery and acceptance occurred before 31 August.",
       "evidence": [
         "03 CRM Export Cleaned FINAL.xlsx",
-        "04 Contracts Returns and Angry Customers.pdf",
-        "02 Bank Export August.csv"
+        "04 Contracts Returns and Angry Customers.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Delivered NorthStar contract.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize €180,000 NorthStar revenue because delivery and acceptance occurred before 31 August.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The NorthStar contractual obligations were completed and accepted before the reporting date.",
       "statementEffect": {
         "profit": 180000,
@@ -920,15 +930,15 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Freedom contract.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize €200,000 Freedom revenue: €142,000 cash received and €58,000 closing receivable.",
       "evidence": [
+        "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx",
-        "04 Contracts Returns and Angry Customers.pdf",
-        "02 Bank Export August.csv"
+        "04 Contracts Returns and Angry Customers.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Delivered Freedom contract.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize €200,000 Freedom revenue: €142,000 cash received and €58,000 closing receivable.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "Freedom performance was completed, so the full contract amount was earned; unpaid consideration remains AR.",
       "statementEffect": {
         "profit": 200000,
@@ -944,15 +954,15 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Completed Phoenix event.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize €100,000 Phoenix revenue: €70,000 cash received and €30,000 closing receivable.",
       "evidence": [
+        "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx",
-        "04 Contracts Returns and Angry Customers.pdf",
-        "02 Bank Export August.csv"
+        "04 Contracts Returns and Angry Customers.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Completed Phoenix event.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize €100,000 Phoenix revenue: €70,000 cash received and €30,000 closing receivable.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The Phoenix event was completed and accepted before reporting date, so the full contract amount is revenue.",
       "statementEffect": {
         "profit": 100000,
@@ -968,15 +978,15 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Liberty order.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize €120,000 Liberty revenue: €95,000 cash received and €25,000 closing receivable.",
       "evidence": [
+        "02 Bank Export August.csv",
         "03 CRM Export Cleaned FINAL.xlsx",
-        "04 Contracts Returns and Angry Customers.pdf",
-        "02 Bank Export August.csv"
+        "04 Contracts Returns and Angry Customers.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Delivered Liberty order.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize €120,000 Liberty revenue: €95,000 cash received and €25,000 closing receivable.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The Liberty order was delivered and accepted in full before reporting date, so the full amount is earned.",
       "statementEffect": {
         "profit": 120000,
@@ -992,15 +1002,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Undelivered September events.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Recognize no August revenue for the undelivered September events; retain €90,000 as customer deposits.",
       "evidence": [
-        "03 CRM Export Cleaned FINAL.xlsx",
-        "04 Contracts Returns and Angry Customers.pdf",
-        "02 Bank Export August.csv"
+        "02 Bank Export August.csv",
+        "04 Contracts Returns and Angry Customers.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Classify Undelivered September events.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Recognize no August revenue for the undelivered September events; retain €90,000 as customer deposits.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The September events were not delivered by 31 August; the cash is a contract liability, not August revenue.",
       "statementEffect": {
         "profit": 0,
@@ -1040,21 +1049,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing bad-debt allowance/write-off and document the basis.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Close gross receivables at €186,000 and reduce them by the same €18,000 R-17 impairment recorded in D057.",
       "evidence": [
-        "04 Contracts Returns and Angry Customers.pdf",
+        "03 CRM Export Cleaned FINAL.xlsx",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Estimate Closing bad-debt allowance/write-off and document the basis.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Close gross receivables at €186,000 and reduce them by the same €18,000 R-17 impairment recorded in D057.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The liquidation evidence confirms the R-17 balance is not recoverable; this is the same €18,000 adjustment as D057.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
-        "assets": -18000,
+        "assets": 0,
         "liabilities": 0,
-        "equity": -18000
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -1063,21 +1072,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Damaged inventory write-off and document the basis.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Close damaged inventory at zero through the same €22,000 write-down recorded in D058.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Estimate Damaged inventory write-off and document the basis.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Close damaged inventory at zero through the same €22,000 write-down recorded in D058.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The damaged stock cannot be sold and should not remain in valuable closing inventory; this is the same adjustment as D058.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
-        "assets": -22000,
+        "assets": 0,
         "liabilities": 0,
-        "equity": -22000
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -1086,21 +1095,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Legal provision and document the basis.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Close legal liabilities including the same €25,000 provision recorded in D059.",
       "evidence": [
         "09 Loans Owner Card and Legal Problems.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Estimate Legal provision and document the basis.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Close legal liabilities including the same €25,000 provision recorded in D059.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The probable legal obligation belongs in closing liabilities; this is the same €25,000 adjustment as D059.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
         "assets": 0,
-        "liabilities": 25000,
-        "equity": -25000
+        "liabilities": 0,
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -1109,20 +1118,21 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Period depreciation and document the basis.",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Include the same €24,000 period depreciation recorded in D056 in closing PPE and profit.",
       "evidence": [
-        "02 Bank Export August.csv"
+        "08 Assets Repairs Leases Maybe.xlsx",
+        "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Estimate Period depreciation and document the basis.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Include the same €24,000 period depreciation recorded in D056 in closing PPE and profit.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "The best supported depreciation amount belongs in closing accounts; this is the same €24,000 adjustment as D056.",
       "statementEffect": {
-        "profit": -24000,
+        "profit": 0,
         "cash": 0,
-        "assets": -24000,
+        "assets": 0,
         "liabilities": 0,
-        "equity": -24000
+        "equity": 0
       },
       "changedFromAI": false
     },
@@ -1131,19 +1141,20 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing inventory and document the basis.",
-      "answer": "Show both alternatives: €121,000 count-based net inventory and €112,000 flow-derived net inventory; disclose the €9,000 unresolved difference.",
+      "answer": "Primary statements use €112,000 flow-derived inventory to remain consistent with €405,000 COGS and €65,000 profit. The €121,000 count-based amount is an evidence-supported alternative; the €9,000 difference remains unresolved and unposted.",
       "evidence": [
         "05 Warehouse Count Marta Notes.pdf",
+        "06 Purchases Invoices and Goods Received.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Estimate Closing inventory and document the basis.",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Primary statements use €112,000 flow-derived inventory to remain consistent with €405,000 COGS and €65,000 profit. The €121,000 count-based amount is an evidence-supported alternative; the €9,000 difference remains unresolved and unposted.",
+      "independentChallenge": "The count evidence supports €121,000 after the damage write-down, but the roll-forward supports €112,000. Neither source identifies the €9,000 cause, so no journal is posted and the primary statements retain the flow basis.",
       "studentReasoning": "The physical count is direct reporting-date evidence, while the €9,000 difference against the flow calculation remains unresolved and must not be plugged.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
-        "assets": 121000,
+        "assets": 0,
         "liabilities": 0,
         "equity": 0
       },
@@ -1327,14 +1338,14 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Approve corrected accounts before valuation",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Approve only the evidence-qualified corrected accounts for valuation, with unresolved reconciling items disclosed.",
       "evidence": [
-        "00 BOARD ORDER READ FIRST.pdf",
-        "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
+        "11 Evidence Received After Takeover.pdf",
+        "00 BOARD ORDER READ FIRST.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Approve corrected accounts before valuation",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Approve only the evidence-qualified corrected accounts for valuation, with unresolved reconciling items disclosed.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "Valuation should use corrected, evidence-supported accounts, with remaining reconciliation issues resolved or transparently documented.",
       "statementEffect": {
         "profit": 0,
@@ -1446,14 +1457,14 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Use claimed management profit for earn-out",
-      "answer": "Operational conclusion is not separately quantifiable from the supplied evidence; no unsupported amount is recognized.",
+      "answer": "Do not use management’s unsupported €312,000 profit for the earn-out; use the €65,000 evidence-qualified reconstruction with stated limitations.",
       "evidence": [
         "00 BOARD ORDER READ FIRST.pdf",
         "10 Email and WhatsApp Dump DO NOT FORWARD.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Certified answer: Use claimed management profit for earn-out",
-      "independentChallenge": "Agent 2 independently tested the relevant evidence for this judgment and agreed with the treatment; any residual uncertainty is identified in the decision and schedules.",
+      "aiProposal": "Do not use management’s unsupported €312,000 profit for the earn-out; use the €65,000 evidence-qualified reconstruction with stated limitations.",
+      "independentChallenge": "The independent review agrees with the recorded treatment after testing the named evidence. The effect shown is the original transaction or incremental correction only; repeated closing decisions do not double count an earlier adjustment.",
       "studentReasoning": "An earn-out should use supported financial results and the actual agreement, not management’s uncorrected €312,000 profit claim.",
       "statementEffect": {
         "profit": 0,
@@ -1467,8 +1478,8 @@
   ],
   "schemaVersion": "1.0",
   "student": {
-    "id": "ar25192",
-    "name": "Alise Romanovska"
+    "name": "Alise Romanovska",
+    "id": "ar25192"
   },
   "evidence": [
     {
@@ -1513,117 +1524,191 @@
     }
   ],
   "schedules": {
-    "headline": {
-      "revenue": 960000,
-      "profit": 65000,
-      "closingCash": 60000,
-      "grossAR": 186000,
-      "netAR": 168000,
-      "inventory": 121000,
-      "ppeCost": 260000,
-      "accumulatedDepreciation": 69000,
-      "AP": 126000,
-      "payrollAccrual": 32000,
-      "deposits": 90000,
-      "loan": 131000,
-      "interestPayable": 2000,
-      "legalProvision": 25000,
-      "distributions": 110000
+    "revenueAndReceivables": {
+      "NorthStarRevenue": 180000,
+      "FreedomRevenue": 200000,
+      "PhoenixRevenue": 100000,
+      "LibertyRevenue": 120000,
+      "totalRevenue": 960000,
+      "grossTradeReceivables": 186000,
+      "R17Impairment": 18000,
+      "netTradeReceivables": 168000,
+      "customerDeposits": 90000,
+      "basis": "Contracts/CRM and bank receipts support completed August revenue. September deposits are contract liabilities."
     },
-    "inventoryCOGS": {
+    "inventoryAndCOGS": {
       "openingInventory": 80000,
       "purchases": 459000,
-      "consumedMaterials": 405000,
-      "damagedWriteOff": 22000,
-      "flowDerivedNetClosing": 112000,
-      "physicalCount": 143000,
-      "selectedCountNetClosing": 121000,
+      "primaryMaterialsConsumedCOGS": 405000,
+      "damagedInventoryWriteOff": 22000,
+      "primaryFlowClosingInventory": 112000,
+      "physicalSystemCount": 143000,
+      "lessDamagedStock": 22000,
+      "physicalCountAlternative": 121000,
       "unresolvedDifference": 9000,
-      "sensitivityIf121UsedAsCOGSBasis": 74000,
-      "treatment": "Primary P&L uses certified EUR405,000 consumed materials and EUR65,000 quantified profit. Balance Sheet selects EUR121,000 physical-count inventory; EUR112,000 is the flow alternative and EUR9,000 remains unresolved.",
-      "selectedBasisCOGS": 396000
+      "alternativeMaterialsConsumedCOGS": 396000,
+      "alternativeProfitIfCountBasisUsed": 74000,
+      "primaryBasis": "€65,000 primary reconstruction: €405,000 COGS and €112,000 inventory.",
+      "qualification": "The physical-count alternative is €121,000. Its €9,000 excess is neither booked as COGS nor used as a balancing entry."
+    },
+    "payroll": {
+      "directEventPayroll": 80000,
+      "salesPayroll": 72000,
+      "officePayroll": 96000,
+      "totalPayrollExpense": 248000,
+      "cashPaid": 216000,
+      "closingPayrollAccrual": 32000,
+      "basis": "Aggregate payroll evidence supports the totals. The monthly split and opening accrual are not completely supported."
     },
     "operatingExpenses": {
       "rent": 48000,
       "marketing": 55000,
       "software": 16000,
       "utilities": 12000,
-      "repair": 10000,
-      "insurance": "unresolved: no reliable policy or prepaid evidence"
+      "repairAndCalibration": 10000,
+      "insurance": "Not recognized: supplied evidence contains no reliable policy, prepaid balance, or consumption amount."
     },
-    "equityDistributions": {
-      "villa": 70000,
-      "ownerCard": 40000,
-      "total": 110000,
-      "openingEquity": "not established",
-      "rollForward": "Equity remains qualified because complete opening balances are not established. Inventory choice affects closing assets and reported equity; no unsupported opening equity plug is created."
+    "ppeAndDepreciation": {
+      "openingPPECost": 180000,
+      "packagingMachineAddition": 60000,
+      "photoBoothAddition": 20000,
+      "closingPPECost": 260000,
+      "openingAccumulatedDepreciation": 45000,
+      "periodDepreciation": 24000,
+      "closingAccumulatedDepreciation": 69000,
+      "netPPE": 191000,
+      "basis": "The €60,000 machine and €20,000 photo booth are original capital additions; their cash/PPE movements offset, so they do not increase total assets at acquisition."
+    },
+    "debtAndInterest": {
+      "openingLoan": 100000,
+      "newBankAdvance": 50000,
+      "principalRepaid": 19000,
+      "closingLoan": 131000,
+      "interestExpense": 12000,
+      "interestPaid": 10000,
+      "interestPayable": 2000
+    },
+    "equityAndDistributions": {
+      "ownerVillaDistribution": 70000,
+      "ownerCardDistribution": 40000,
+      "totalDistributions": 110000,
+      "primaryClosingEquity": 125000,
+      "impliedOpeningEquityForRollForward": 170000,
+      "basis": "€125,000 is the residual equity on the primary €112,000 inventory statement basis. €170,000 is an arithmetic roll-forward input (125,000 - 65,000 + 110,000), not a posted opening-equity plug; full opening-balance evidence is missing."
     }
   },
   "statements": {
     "profitAndLoss": {
       "revenue": 960000,
-      "physicalProductCOGS": 405000,
+      "productCOGS": 405000,
       "directEventPayroll": 80000,
-      "operatingExpenses": 410000,
+      "grossProfit": 475000,
+      "salesPayroll": 72000,
+      "officePayroll": 96000,
+      "rent": 48000,
+      "marketing": 55000,
+      "software": 16000,
+      "utilities": 12000,
+      "repairAndCalibration": 10000,
+      "depreciation": 24000,
+      "badDebtImpairment": 18000,
+      "damagedInventoryWriteOff": 22000,
+      "legalProvision": 25000,
+      "interestExpense": 12000,
+      "totalOperatingAndOtherExpenses": 410000,
       "quantifiedProfit": 65000,
-      "status": "primary evidence-qualified reconstruction; €74,000 is inventory sensitivity only, not the submitted primary profit"
+      "basis": "Primary evidence-qualified reconstruction using €405,000 COGS and €112,000 flow-derived inventory."
     },
     "cashFlow": {
       "openingCash": 80000,
       "operating": 139000,
       "investing": -80000,
       "financingOwner": -79000,
-      "closingCash": 60000
+      "closingCash": 60000,
+      "basis": "Closing cash agrees to bank evidence."
     },
     "balanceSheet": {
-      "assets": 540000,
-      "liabilities": 406000,
-      "impliedNetAssets": 134000
+      "cash": 60000,
+      "tradeReceivablesNet": 168000,
+      "inventoryPrimaryFlowBasis": 112000,
+      "ppeNet": 191000,
+      "totalAssets": 531000,
+      "tradePayables": 126000,
+      "payrollPayable": 32000,
+      "contractLiabilities": 90000,
+      "bankLoan": 131000,
+      "interestPayable": 2000,
+      "legalProvision": 25000,
+      "totalLiabilities": 406000,
+      "primaryResidualEquity": 125000,
+      "totalLiabilitiesAndEquity": 531000,
+      "basis": "Primary statement basis is €112,000 inventory. €121,000 physical-count inventory is disclosed separately as a €9,000 unresolved alternative, not combined with €65,000 profit."
     }
   },
   "reconciliations": [
     {
-      "name": "Balance sheet arithmetic",
-      "status": "pass",
-      "difference": 0
-    },
-    {
       "name": "Closing cash to bank and cash flow",
       "status": "pass",
-      "difference": 0
+      "difference": 0,
+      "calculation": "€80,000 opening cash + €139,000 operating - €80,000 investing - €79,000 financing/owner = €60,000, agreeing to the bank export."
     },
     {
-      "name": "Supplier/AP",
-      "status": "unresolved",
-      "difference": 45000
+      "name": "Revenue and receivables",
+      "status": "pass",
+      "difference": 0,
+      "calculation": "€960,000 completed-contract revenue; gross AR €186,000 less R-17 impairment €18,000 = net AR €168,000. €90,000 September receipts remain deposits."
+    },
+    {
+      "name": "PPE and depreciation",
+      "status": "pass",
+      "difference": 0,
+      "calculation": "€180,000 opening cost + €60,000 machine + €20,000 photo booth = €260,000; accumulated depreciation €45,000 + €24,000 = €69,000; net PPE €191,000."
+    },
+    {
+      "name": "Debt and interest",
+      "status": "pass",
+      "difference": 0,
+      "calculation": "€100,000 opening loan + €50,000 advance - €19,000 principal = €131,000; €12,000 interest expense - €10,000 paid = €2,000 payable."
+    },
+    {
+      "name": "Inventory roll-forward versus physical count",
+      "status": "conditional",
+      "difference": 9000,
+      "calculation": "Primary flow: €80,000 + €459,000 - €405,000 - €22,000 = €112,000. Count: €143,000 - €22,000 = €121,000. The €9,000 is uninvestigated and unposted."
+    },
+    {
+      "name": "Supplier payable",
+      "status": "conditional",
+      "difference": 45000,
+      "calculation": "Purchases/payments and confirmed AP do not fully reconcile; €45,000 remains for investigation and is not plugged."
+    },
+    {
+      "name": "Equity roll-forward",
+      "status": "conditional",
+      "difference": null,
+      "calculation": "Primary closing equity is €125,000 residual: €531,000 assets - €406,000 liabilities. Implied opening equity is €170,000 after €65,000 profit and €110,000 distributions, but the full opening balance sheet is not independently supported."
     },
     {
       "name": "Prepaid insurance",
-      "status": "unresolved",
+      "status": "evidence_gap",
       "difference": null,
-      "reason": "No reliable insurance policy, prepaid balance or consumption evidence identified"
+      "calculation": "No reliable insurance policy, prepaid balance, or consumption amount was supplied; no insurance entry has been invented."
     },
     {
-      "name": "Inventory alternatives",
-      "status": "unresolved",
-      "difference": 9000,
-      "calculation": "Flow: 80000 + 459000 - 405000 - 22000 = 112000; count: 143000 - 22000 = 121000; sensitivity profit = 65000 + 9000 = 74000."
-    },
-    {
-      "name": "Opening equity roll-forward",
-      "status": "unresolved",
-      "difference": null,
-      "reason": "Complete opening balance sheet evidence is missing; no plug created"
+      "name": "Unexplained journals",
+      "status": "pass",
+      "difference": 0,
+      "calculation": "No €9,000 inventory journal, €45,000 supplier journal, or opening-equity balancing entry has been posted."
     }
   ],
   "uncertainties": [
-    "€9,000 inventory difference",
-    "€45,000 supplier/AP difference",
-    "Opening/closing equity support",
-    "No reliable insurance/prepaid evidence",
-    "Monthly payroll split"
+    "€9,000 inventory difference: primary flow €112,000 versus physical-count alternative €121,000; no adjustment posted.",
+    "€45,000 supplier/AP reconciliation difference; no balancing journal posted.",
+    "Opening balance-sheet evidence is incomplete; the €170,000 equity roll-forward input is arithmetic only, not independently verified.",
+    "No reliable insurance/prepaid amount is available; no amount is invented.",
+    "Payroll evidence supports aggregate totals; full monthly split support is incomplete."
   ],
   "boardRecommendation": {
-    "text": "Submit €65,000 as the primary evidence-qualified quantified reconstruction. €74,000 is sensitivity only if the unresolved €9,000 inventory difference reduces COGS. Do not use an unsupported plug."
+    "text": "Use €65,000 as the primary evidence-qualified reconstruction with €112,000 flow-derived inventory and €125,000 residual equity. Disclose—not book—the €121,000 count-based inventory alternative and the €9,000 difference. Do not use management’s €312,000 claim or any unsupported balancing journal."
   }
 }
